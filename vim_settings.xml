@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1517939969912">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517939216838">
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517940948941">
         <mark key="'" line="160" column="29" />
-        <mark key="[" line="171" column="30" />
-        <mark key="]" line="171" column="24" />
-        <mark key="." line="171" column="24" />
-        <mark key="^" line="171" column="24" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+        <mark key="^" line="203" column="32" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" timestamp="1517933884425">
         <mark key="'" line="341" column="37" />
@@ -92,34 +92,34 @@
         <text>sol.warehouse_id.code</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3dhcmVob3VzZV9jb2RlJzogd2FyZWhvdXNlX2NvZGUgb3Igc29sLndhcmVob3VzZV9pZC5jb2RlLAogICAgICAgICAgICAnc3ViX3dhcmVob3VzZV9jb2RlJzogc3ViX3dhcmVob3VzZSBvciBzb2wucHJvZHVjdF9pZC5zdWJfd2FyZWhvdXNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2FyZWhvdXNlX2NvZGU9J2Rvb2xleS1ydW1ibGUnLAogICAgICAgICAgICBzdWJfd2FyZWhvdXNlPSdjYW51dGUnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdhcmVob3VzZV9jb2RlID0gc29sLndhcmVob3VzZV9pZC5jb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICBOb25lLAo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTm9uZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3dhcmVob3VzZV9jb2RlJzogc29sLndhcmVob3VzZV9pZC5jb2RlLAogICAgICAgICAgICAnc3ViX3dhcmVob3VzZV9jb2RlJzogc29sLnByb2R1Y3RfaWQuc3ViX3dhcmVob3VzZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnRXZlbnQgZGF0YScpCiAgICAgICAgcHJpbnQoZXZlbnRfZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZHNkZAo=</text>
+        <text encoding="base64">ICAgIHdhcmVob3VzZV9jb2RlID0gc29sLndhcmVob3VzZV9pZC5jb2RlCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzb2wucHJvZHVjdF9pZC5kaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGUK</text>
+      <register name="8" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHNvbC5wcm9kdWN0X2lkLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3dhcmVob3VzZV9jb2RlJzogc29sLndhcmVob3VzZV9pZC5jb2RlLAogICAgICAgICAgICAnc3ViX3dhcmVob3VzZV9jb2RlJzogc29sLnByb2R1Y3RfaWQuc3ViX3dhcmVob3VzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -155,6 +155,12 @@
         <entry>Wa</entry>
         <entry>%s/sol.warehouse_id.code/warehouse_code/gc</entry>
         <entry>172</entry>
+        <entry>270</entry>
+        <entry>235</entry>
+        <entry>98</entry>
+        <entry>201</entry>
+        <entry>130</entry>
+        <entry>158</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
