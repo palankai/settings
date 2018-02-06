@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517937792304">
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517939216838">
         <mark key="'" line="160" column="29" />
-        <mark key="[" line="132" column="30" />
-        <mark key="]" line="132" column="56" />
-        <mark key="." line="146" column="27" />
-        <mark key="^" line="146" column="27" />
+        <mark key="[" line="171" column="30" />
+        <mark key="]" line="171" column="24" />
+        <mark key="." line="171" column="24" />
+        <mark key="^" line="171" column="24" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" timestamp="1517933884425">
         <mark key="'" line="341" column="37" />
@@ -21,11 +21,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" timestamp="1517937875949">
-        <mark key="[" line="524" column="50" />
-        <mark key="]" line="525" column="38" />
-        <mark key="." line="525" column="38" />
-        <mark key="^" line="525" column="38" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" timestamp="1517939542686">
+        <mark key="'" line="529" column="7" />
+        <mark key="[" line="528" column="0" />
+        <mark key="]" line="528" column="0" />
+        <mark key="." line="528" column="0" />
+        <mark key="^" line="524" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -74,55 +75,59 @@
       <jump line="358" column="28" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
       <jump line="308" column="18" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
       <jump line="341" column="37" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="527" column="7" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
+      <jump line="171" column="24" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzb2wucHJvZHVjdF9pZC5kaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGUK</text>
+        <text encoding="base64">ICAgIHdhcmVob3VzZV9jb2RlID0gc29sLndhcmVob3VzZV9pZC5jb2RlCg==</text>
       </register>
       <register name="-" type="4">
         <text>orium</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGVcPg==</text>
+        <text>sol.warehouse_id.code</text>
       </register>
-      <register name="0" type="4">
-        <text>dispatch_from_dooley_rumble</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3dhcmVob3VzZV9jb2RlJzogd2FyZWhvdXNlX2NvZGUgb3Igc29sLndhcmVob3VzZV9pZC5jb2RlLAogICAgICAgICAgICAnc3ViX3dhcmVob3VzZV9jb2RlJzogc3ViX3dhcmVob3VzZSBvciBzb2wucHJvZHVjdF9pZC5zdWJfd2FyZWhvdXNlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzb2wucHJvZHVjdF9pZC5kaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGUK</text>
+        <text encoding="base64">ICAgIHdhcmVob3VzZV9jb2RlID0gc29sLndhcmVob3VzZV9pZC5jb2RlCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHNvbC5wcm9kdWN0X2lkLgo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5LmNyLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3dhcmVob3VzZV9jb2RlJzogc29sLndhcmVob3VzZV9pZC5jb2RlLAogICAgICAgICAgICAnc3ViX3dhcmVob3VzZV9jb2RlJzogc29sLnByb2R1Y3RfaWQuc3ViX3dhcmVob3VzZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUHJvZHVjdCBpZDonLCBmYWN0b3J5LnByb2R1Y3RzLnByb2R1Y3QuZGVmYXVsdF9jb2RlKQogICAgICAgIHByaW50KCdPcmRlciBpZDonLCBmYWN0b3J5LnNhbGVzLnNvLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnRXZlbnQgZGF0YScpCiAgICAgICAgcHJpbnQoZXZlbnRfZGF0YSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnRXZlbnQgZGF0YScpCiAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZHNkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUHJvZHVjdCBpZDonLCBmYWN0b3J5LnByb2R1Y3RzLnByb2R1Y3QuZGVmYXVsdF9jb2RlKQogICAgICAgIHByaW50KCdPcmRlciBpZDonLCBmYWN0b3J5LnNhbGVzLnNvLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzb2wucHJvZHVjdF9pZC5kaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnByb2R1Y3RzLndhcmVob3VzZQo=</text>
+        <text encoding="base64">ICAgIGlmIHNvbC5wcm9kdWN0X2lkLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmYWN0b3J5LnByb2R1Y3RzLnByb2R1Y3QpCiAgICAgICAgZmFjdG9yeS5jci5jb21taXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5LmNyLmNvbW1pdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnUHJvZHVjdCBpZDonLCBmYWN0b3J5LnByb2R1Y3RzLnByb2R1Y3QuZGVmYXVsdF9jb2RlKQogICAgICAgIHByaW50KCdPcmRlciBpZDonLCBmYWN0b3J5LnNhbGVzLnNvLm5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGVcPg==</last-search>
+      <last-search>sol.warehouse_id.code</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGVcPg==</last-pattern>
+      <last-pattern>sol.warehouse_id.code</last-pattern>
+      <last-replace>warehouse_code</last-replace>
+      <last-substitute>sol.warehouse_id.code</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -132,6 +137,7 @@
         <entry encoding="base64">XDxQcm9kdWN0SGVscGVyXD4=</entry>
         <entry encoding="base64">XDxkb29sZXlfcnVtYmxlX3dhcmVob3VzZVw+</entry>
         <entry encoding="base64">XDxkaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGVcPg==</entry>
+        <entry>sol.warehouse_id.code</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -144,12 +150,18 @@
         <entry>vsp</entry>
         <entry>w</entry>
         <entry>Wa</entry>
+        <entry>%s/sol.warehouse_id.code/warehouse_code/gc</entry>
+        <entry>172</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
