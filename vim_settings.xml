@@ -3,8 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517931852041">
-        <mark key="'" line="128" column="29" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517934125632">
+        <mark key="'" line="157" column="29" />
+        <mark key="[" line="129" column="58" />
+        <mark key="]" line="132" column="26" />
+        <mark key="." line="132" column="26" />
+        <mark key="^" line="132" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" timestamp="1517933884425">
+        <mark key="'" line="341" column="37" />
+        <mark key="[" line="308" column="18" />
+        <mark key="]" line="308" column="44" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/eventstore/eventstore_message.py" timestamp="1517915895452">
         <mark key="[" line="17" column="0" />
@@ -15,22 +24,107 @@
     </filemarks>
     <jumps>
       <jump line="128" column="29" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="166" column="23" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="179" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="183" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="187" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="191" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="193" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="198" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="203" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="212" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="222" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="230" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="235" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="242" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="260" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="262" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="264" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="270" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="272" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="276" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="282" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="286" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="290" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="296" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="298" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="304" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="309" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="316" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="323" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="329" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="334" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="792" column="23" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="837" column="4" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="1111" column="13" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="1112" column="31" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="359" column="27" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="788" column="23" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="350" column="32" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="358" column="28" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="308" column="18" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
+      <jump line="341" column="37" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="0" type="4">
+        <text>dispatch_from_dooley_rumble</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnByb2R1Y3RzLndhcmVob3VzZQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnByb2R1Y3RzLndhcmVob3VzZQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChmYWN0b3J5LnByb2R1Y3RzLnByb2R1Y3QpCiAgICAgICAgZmFjdG9yeS5jci5jb21taXQoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>wa</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxkaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGVcPg==</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxkaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGVcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxkaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGVcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>product</entry>
+        <entry encoding="base64">XDxQcm9kdWN0SGVscGVyXD4=</entry>
+        <entry encoding="base64">XDxkb29sZXlfcnVtYmxlX3dhcmVob3VzZVw+</entry>
+        <entry encoding="base64">XDxkaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGVcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>sp</entry>
+        <entry>Q</entry>
+        <entry>sv</entry>
+        <entry>vp</entry>
+        <entry>split</entry>
+        <entry>splitvertical</entry>
+        <entry>q</entry>
+        <entry>vsp</entry>
+        <entry>w</entry>
+        <entry>Wa</entry>
+        <entry>wa</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
