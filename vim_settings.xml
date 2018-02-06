@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517934125632">
-        <mark key="'" line="157" column="29" />
-        <mark key="[" line="129" column="58" />
-        <mark key="]" line="132" column="26" />
-        <mark key="." line="132" column="26" />
-        <mark key="^" line="132" column="26" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517935390329">
+        <mark key="'" line="160" column="29" />
+        <mark key="[" line="52" column="14" />
+        <mark key="]" line="52" column="23" />
+        <mark key="." line="52" column="23" />
+        <mark key="^" line="52" column="23" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" timestamp="1517933884425">
         <mark key="'" line="341" column="37" />
@@ -70,22 +70,28 @@
       <jump line="341" column="37" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>dispatch_from_dooley_rumble</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnUHJvZHVjdCBpZDonLCBmYWN0b3J5LnByb2R1Y3RzLnByb2R1Y3QuZGVmYXVsdF9jb2RlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnByb2R1Y3RzLndhcmVob3VzZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnRXZlbnQgZGF0YScpCiAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnByb2R1Y3RzLndhcmVob3VzZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnRXZlbnQgZGF0YScpCiAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmYWN0b3J5LnByb2R1Y3RzLnByb2R1Y3QpCiAgICAgICAgZmFjdG9yeS5jci5jb21taXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnUHJvZHVjdCBpZDonLCBmYWN0b3J5LnByb2R1Y3RzLnByb2R1Y3QuZGVmYXVsdF9jb2RlKQogICAgICAgIHByaW50KCdPcmRlciBpZDonLCBmYWN0b3J5LnNhbGVzLnNvLm5hbWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnByb2R1Y3RzLndhcmVob3VzZQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChmYWN0b3J5LnByb2R1Y3RzLnByb2R1Y3QpCiAgICAgICAgZmFjdG9yeS5jci5jb21taXQoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
