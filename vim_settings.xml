@@ -24,6 +24,9 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/purchase_messages/tests/test_purchase_order_approved_event.py" timestamp="1518019875306">
+        <mark key="'" line="444" column="8" />
+      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" timestamp="1517939795763">
         <mark key="'" line="529" column="7" />
         <mark key="[" line="539" column="0" />
@@ -89,6 +92,7 @@
       <jump line="341" column="37" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/fixtures.py" />
       <jump line="527" column="7" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
       <jump line="171" column="24" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" />
+      <jump line="444" column="8" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/purchase_messages/tests/test_purchase_order_approved_event.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -98,7 +102,7 @@
         <text>orium</text>
       </register>
       <register name="/" type="4">
-        <text>sol.warehouse_id.code</text>
+        <text>iforce</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2FyZWhvdXNlX2NvZGU9J2Rvb2xleS1ydW1ibGUnLAogICAgICAgICAgICBzdWJfd2FyZWhvdXNlPSdjYW51dGUnCg==</text>
@@ -135,9 +139,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sol.warehouse_id.code</last-search>
+      <last-search>iforce</last-search>
       <last-offset />
-      <last-pattern>sol.warehouse_id.code</last-pattern>
+      <last-pattern>iforce</last-pattern>
       <last-replace>warehouse_code</last-replace>
       <last-substitute>sol.warehouse_id.code</last-substitute>
       <last-dir>1</last-dir>
@@ -150,6 +154,8 @@
         <entry encoding="base64">XDxkb29sZXlfcnVtYmxlX3dhcmVob3VzZVw+</entry>
         <entry encoding="base64">XDxkaXNwYXRjaF9mcm9tX2Rvb2xleV9ydW1ibGVcPg==</entry>
         <entry>sol.warehouse_id.code</entry>
+        <entry>iForce</entry>
+        <entry>iforce</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
