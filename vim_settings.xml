@@ -37,6 +37,9 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/export_events.py" timestamp="1518016425220">
+        <mark key="[" line="103" column="56" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="128" column="29" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" />
