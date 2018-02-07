@@ -31,6 +31,12 @@
         <mark key="." line="539" column="0" />
         <mark key="^" line="524" column="4" />
       </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/export_orders_items.py" timestamp="1518011566337">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="128" column="29" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" />
