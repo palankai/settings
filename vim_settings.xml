@@ -18,11 +18,12 @@
         <mark key="[" line="308" column="18" />
         <mark key="]" line="308" column="44" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_orders.sh" timestamp="1518090575803">
-        <mark key="[" line="6" column="67" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="45" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_orders.sh" timestamp="1518102448691">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="35" column="5" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/eventstore/eventstore_message.py" timestamp="1517939748508">
         <mark key="[" line="32" column="11" />
@@ -99,13 +100,14 @@
       <jump line="527" column="7" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
       <jump line="171" column="24" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" />
       <jump line="444" column="8" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/purchase_messages/tests/test_purchase_order_approved_event.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_orders.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>orium</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>iforce</text>
@@ -114,31 +116,31 @@
         <text encoding="base64">IyAgICQgZXh0cmFjdF9vcmRlcl9pdGVtcy5zaCBza3VzLnR4dAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZWNobyAkU0tVUwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBOb25lLAo=</text>
+        <text encoding="base64">IyBAVE9ETyBUaGlzIHNjcmlwdCBtaWdodCBnZW5lcmF0ZSBDVVJMIGNhbGxzPwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm9uZSwK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdhcmVob3VzZV9jb2RlID0gc29sLndhcmVob3VzZV9pZC5jb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICBOb25lLAo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTm9uZSwK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -172,7 +174,6 @@
         <entry>splitvertical</entry>
         <entry>q</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>Wa</entry>
         <entry>%s/sol.warehouse_id.code/warehouse_code/gc</entry>
         <entry>172</entry>
@@ -182,6 +183,7 @@
         <entry>201</entry>
         <entry>130</entry>
         <entry>158</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
