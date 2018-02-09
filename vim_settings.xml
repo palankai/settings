@@ -20,12 +20,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" timestamp="1518190280123">
-        <mark key="'" line="609" column="0" />
-        <mark key="[" line="167" column="34" />
-        <mark key="]" line="168" column="37" />
-        <mark key="^" line="168" column="37" />
-        <mark key="." line="168" column="37" />
+      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" timestamp="1518191377694">
+        <mark key="'" line="608" column="0" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/export_events.py" timestamp="1518016425220">
         <mark key="[" line="103" column="56" />
@@ -36,6 +35,12 @@
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/hacienda/_local/BOS-312.org" timestamp="1518191661420">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517940948941">
         <mark key="'" line="160" column="29" />
@@ -182,8 +187,8 @@
       <jump line="608" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>debug</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmlnbm9yZV9hbGxvY2F0aW9uID0gRmFsc2UK</text>
       </register>
       <register name="-" type="4">
         <text>debug</text>
@@ -195,34 +200,34 @@
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J1Nob3cgZnJhbWVzIGFyb3VuZCB0aGUgbGFiZWxzJywKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAiRG9uZS4iCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlnbm9yZV9hbGxvY2F0aW9uID0gRmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAiZG9uZTogdG9fYmVfZGlzcGF0Y2hlZC5jc3YiCg==</text>
+        <text encoding="base64">ZWNobyAiRG9uZS4iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlY2hvICQjCg==</text>
+        <text encoding="base64">ZWNobyAiZG9uZTogdG9fYmVfZGlzcGF0Y2hlZC5jc3YiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAiKFJ1bnRpbWUgY291bGQgdGFrZSBtaW51dGVzISkiCg==</text>
+        <text encoding="base64">ICBlY2hvICQjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAiKFJ1bnRpbWUgY291bGQgdGFrZSBtaW51dGVzISkiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0IC1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIiIK</text>
+        <text encoding="base64">c2V0IC1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIiIKICAgIGVjaG8gIlVzYWdlOiIKICAgIGVjaG8gIiAgJCBleHRyYWN0X29yZGVyX2l0ZW1zLnNoIHNrdXMudHh0Igo=</text>
+        <text encoding="base64">ICAgIGVjaG8gIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIiIKICAgIGVjaG8gIkFsdGVybmF0aXZlbHk6IgogICAgZWNobyAiICAkIGV4dHJhY3Rfb3JkZXJfaXRlbXMuc2ggPCBza3VzLnR4dCIK</text>
+        <text encoding="base64">ICAgIGVjaG8gIiIKICAgIGVjaG8gIlVzYWdlOiIKICAgIGVjaG8gIiAgJCBleHRyYWN0X29yZGVyX2l0ZW1zLnNoIHNrdXMudHh0Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -261,9 +266,9 @@
         <entry>201</entry>
         <entry>130</entry>
         <entry>158</entry>
-        <entry>w</entry>
         <entry>Wa</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -271,6 +276,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
