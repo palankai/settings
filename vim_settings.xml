@@ -34,6 +34,13 @@
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/purchase_messages/tests/test_purchase_order_approved_event.py" timestamp="1518019875306">
         <mark key="'" line="444" column="8" />
       </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrlablr/__main__.py" timestamp="1518175155897">
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" timestamp="1517939795763">
         <mark key="'" line="529" column="7" />
         <mark key="[" line="539" column="0" />
@@ -56,6 +63,13 @@
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/export_events.py" timestamp="1518016425220">
         <mark key="[" line="103" column="56" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrlablr/sheet.py" timestamp="1518175137375">
+        <mark key="'" line="85" column="28" />
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="10" />
+        <mark key="^" line="17" column="10" />
+        <mark key="." line="17" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -111,19 +125,21 @@
       <jump line="41" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_orders.sh" />
       <jump line="40" column="47" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_orders.sh" />
       <jump line="43" column="10" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_order_items.sh" />
+      <jump line="84" column="28" filename="$USER_HOME$/work/made.com/qrcoder/qrlablr/sheet.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/work/made.com/qrcoder/qrlablr/__main__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAiRG9uZS4iCg==</text>
+      <register name="&quot;" type="4">
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>iforce</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWNobyAiZG9uZTogdG9fYmVfZGlzcGF0Y2hlZC5jc3YiCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy0tZGVidWcnLCBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgICAgIGhlbHA9J1Nob3cgZnJhbWVzIGFyb3VuZCB0aGUgbGFiZWxzJywKICAgICkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZWNobyAiRG9uZS4iCg==</text>
