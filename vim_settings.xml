@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/commands.py" timestamp="1518519650667">
-        <mark key="[" line="347" column="28" />
-        <mark key="]" line="348" column="16" />
-        <mark key="^" line="348" column="16" />
-        <mark key="." line="348" column="16" />
+      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/commands.py" timestamp="1518520780207">
+        <mark key="[" line="347" column="16" />
+        <mark key="]" line="347" column="16" />
+        <mark key="^" line="346" column="24" />
+        <mark key="." line="347" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1517939969912">
         <mark key="[" line="0" column="0" />
@@ -193,11 +193,11 @@
       <jump line="608" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlnbm9yZV9hbGxvY2F0aW9uID0gRmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>outwardl</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>outwardl</text>
       </register>
       <register name="/" type="4">
         <text>iforce</text>
@@ -233,7 +233,7 @@
         <text encoding="base64">ICAgIGVjaG8gIiIKICAgIGVjaG8gIlVzYWdlOiIKICAgIGVjaG8gIiAgJCBleHRyYWN0X29yZGVyX2l0ZW1zLnNoIHNrdXMudHh0Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -273,8 +273,8 @@
         <entry>130</entry>
         <entry>158</entry>
         <entry>Wa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
