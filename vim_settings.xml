@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/commands.py" timestamp="1518519650667">
+        <mark key="[" line="347" column="28" />
+        <mark key="]" line="348" column="16" />
+        <mark key="^" line="348" column="16" />
+        <mark key="." line="348" column="16" />
+      </file>
       <file name="/Dummy.txt" timestamp="1517939969912">
         <mark key="[" line="0" column="0" />
       </file>
