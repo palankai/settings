@@ -5,7 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/commands.py" timestamp="1518521415914">
         <mark key="[" line="348" column="0" />
-        <mark key="]" line="353" column="0" />
+        <mark key="]" line="351" column="0" />
         <mark key="." line="348" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1518524167522">
@@ -28,17 +28,10 @@
       <file name="/a.dummy" timestamp="1518532411155">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/fixtures.py" timestamp="1518532572338">
-        <mark key="[" line="963" column="38" />
-        <mark key="]" line="964" column="7" />
-        <mark key="^" line="964" column="7" />
-        <mark key="." line="964" column="7" />
-      </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" timestamp="1518534056394">
-        <mark key="'" line="1163" column="0" />
-        <mark key="[" line="961" column="13" />
-        <mark key="]" line="957" column="0" />
-        <mark key="." line="957" column="0" />
+      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" timestamp="1518535780335">
+        <mark key="[" line="823" column="0" />
+        <mark key="]" line="823" column="0" />
+        <mark key="." line="823" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/export_events.py" timestamp="1518016425220">
         <mark key="[" line="103" column="56" />
@@ -57,11 +50,11 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/eventconsumer/bootstrap.py" timestamp="1518526037970">
-        <mark key="'" line="243" column="0" />
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="0" />
-        <mark key="^" line="248" column="56" />
-        <mark key="." line="249" column="0" />
+        <mark key="'" line="247" column="0" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="^" line="252" column="56" />
+        <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_allocate_order_item_handler.py" timestamp="1518534599822">
         <mark key="[" line="5" column="0" />
@@ -74,12 +67,8 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="203" column="32" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_mark_order_line_dispatched.py" timestamp="1518534832667">
+      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_mark_order_line_dispatched.py" timestamp="1518535155772">
         <mark key="'" line="2" column="61" />
-        <mark key="[" line="2" column="49" />
-        <mark key="]" line="2" column="61" />
-        <mark key="^" line="2" column="61" />
-        <mark key="." line="2" column="61" />
       </file>
       <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_order_line_picking_handler.py" timestamp="1518534512011">
         <mark key="'" line="64" column="8" />
@@ -116,16 +105,13 @@
         <mark key="^" line="87" column="8" />
       </file>
       <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/handlers.py" timestamp="1518533548431">
-        <mark key="'" line="1420" column="8" />
-        <mark key="[" line="1460" column="18" />
-        <mark key="]" line="1460" column="54" />
-        <mark key="^" line="1460" column="11" />
-        <mark key="." line="1460" column="11" />
+        <mark key="[" line="1463" column="18" />
+        <mark key="]" line="1463" column="54" />
+        <mark key="^" line="1463" column="11" />
+        <mark key="." line="1463" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
-      <jump line="400" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="405" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="417" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="422" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
@@ -224,10 +210,12 @@
       <jump line="61" column="14" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_mark_order_line_dispatched.py" />
       <jump line="78" column="39" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_mark_order_line_dispatched.py" />
       <jump line="2" column="61" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_mark_order_line_dispatched.py" />
+      <jump line="180" column="41" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgojICAgIGRlZiBfZ2V0X29yZGVyX2xpbmUoc2VsZiwgY2hlY2spOgojICAgICAgICBmb3IgbGluZSBpbiBzZWxmLmxpbmVzOgojICAgICAgICAgICAgaWYgY2hlY2sobGluZSk6CiMgICAgICAgICAgICAgICAgcmV0dXJuIGxpbmUK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -239,34 +227,34 @@
         <text encoding="base64">ZnJvbSBoYWNpZW5kYS5tb2RlbCBpbXBvcnQgb3JkZXIgYXMgb3JkZXJfbW9kZWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlCg==</text>
+        <text encoding="base64">CgojICAgIGRlZiBfZ2V0X29yZGVyX2xpbmUoc2VsZiwgY2hlY2spOgojICAgICAgICBmb3IgbGluZSBpbiBzZWxmLmxpbmVzOgojICAgICAgICAgICAgaWYgY2hlY2sobGluZSk6CiMgICAgICAgICAgICAgICAgcmV0dXJuIGxpbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgaXRfc2hvdWxkX25vdF9hbGxvY2F0ZV9sYXRlcihzZWxmKToKICAgICAgICBjbWQgPSBmaXh0dXJlcy5BbGxvY2F0ZU9yZGVySXRlbUNvbW1hbmRCdWlsZGVyKCkgXAogICAgICAgICAgICAud2l0aF9vcmRlcl9pZChzZWxmLm9yZGVyLnJlZmVyZW5jZSkgXAogICAgICAgICAgICAud2l0aF9vcmRlcl9pdGVtX2lkKHNlbGYub3JkZXIubGluZXNbMF0ucmVmZXJlbmNlKSBcCiAgICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgaGFuZGxlcnMuQWxsb2NhdGVPcmRlckl0ZW1IYW5kbGVyKHNlbGYudW93bSkoY21kKQoKICAgICAgICBleHBlY3Qoc2VsZi5vcmRlci5jb25zaWdubWVudHMpLnRvKGhhdmVfbGVuKDApKQoKCgoKICAgIGRlZiBnaXZlbl9hX2NvbnNpZ25tZW50X3dpdGhfb25lX3BpY2tlZF9pbnN0cnVjdGlvbihzZWxmKToKICAgICAgICBzZWxmLmZpcnN0X2luc3RydWN0aW9uLnN0YXRlID0gb3JkZXJfbW9kZWwuSW5zdHJ1Y3Rpb24uU3RhdGUuQWNrbm93bGVkZ2VkCiAgICAgICAgc2VsZi5zZWNvbmRfaW5zdHJ1Y3Rpb24uc3RhdGUgPSBvcmRlcl9tb2RlbC5JbnN0cnVjdGlvbi5TdGF0ZS5QaWNrZWQKCiAgICAgICAgc2VsZi51b3dtLmNsZWFyKCkKCiAgICAgICAgc2VsZi5pbnRlcm5hbF9ldmVudCA9IGV2ZW50cy5vcmRlcl9saW5lX3N0YXJ0ZWRfcGlja2luZygKICAgICAgICAgICAgaWQ9c3RyKHV1aWQudXVpZDQoKSksCiAgICAgICAgICAgIGNvcnJlbGF0aW9uX2lkPXN0cih1dWlkLnV1aWQ0KCkpLAogICAgICAgICAgICBvcmRlcl9saW5lX3JlZmVyZW5jZT1zZWxmLm9yZGVyX2xpbmVfaWQsCiAgICAgICAgICAgIHBpY2tpbmdfc3RhcnRlZF9hdD1kYXRldGltZS5kYXRldGltZSgyMDE3LCAxMCwgMzAsIDE2LCAzNSwgMjgpLAogICAgICAgICkKCiAgICBkZWYgYmVjYXVzZV93ZV9oYW5kbGVfb3JkZXJfbGluZV9zdGFydGVkX3BpY2tpbmdfZXZlbnQoc2VsZik6CiAgICAgICAgaGFuZGxlcnMuT3JkZXJMaW5lUGlja2luZ0hhbmRsZXIoc2VsZi51b3dtLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucHVibGlzaGVyKShzZWxmLmludGVybmFsX2V2ZW50KQogICAgICAgIFtzZWxmLmV2ZW50XSA9IHNlbGYuZXZlbnRzdG9yZVsnb3JkZXIte30nLmZvcm1hdChzZWxmLm9yZGVyLnJlZmVyZW5jZSldCgogICAgZGVmIGl0X3Nob3VsZF9wdWJsaXNoX2FfcGlja2luZ19zdGFydGVkX2V2ZW50KHNlbGYpOgogICAgICAgIGV4cGVjdChzZWxmLmV2ZW50LnR5cGUpLnRvKGVxdWFsKCdwaWNraW5nX3N0YXJ0ZWQnKSkKCiAgICBkZWYgaXRfc2hvdWxkX3JlZmVyX3RvX3RoZV9vcmRlcl9pZF9jb3JyZWN0bHkoc2VsZik6CiAgICAgICAgZXhwZWN0KHNlbGYuZXZlbnQuZGF0YVsnb3JkZXJfaWQnXSkudG8oZXF1YWwoc2VsZi5vcmRlci5yZWZlcmVuY2UpKQoKICAgIGRlZiBpdF9zaG91bGRfcmVmZXJfdG9fdGhlX29yZGVyX2xpbmVfY29ycmVjdGx5KHNlbGYpOgogICAgICAgIGV4cGVjdChzZWxmLmV2ZW50LmRhdGFbJ29yZGVyX2l0ZW1faWQnXSkudG8oZXF1YWwoc2VsZi5vcmRlcl9saW5lX2lkKSkKCiAgICBkZWYgaXRfc2hvdWxkX2NvbnRhaW5fdGhlX3BpY2tpbmdfc3RhcnRlZF90aW1lc3RhbXAoc2VsZik6CiAgICAgICAgZXhwZWN0KHNlbGYuZXZlbnQuZGF0YVsncGlja2luZ19zdGFydGVkX3RpbWVzdGFtcCddKS50bygKICAgICAgICAgICAgZXF1YWwoJzIwMTctMTAtMzBUMTY6MzU6MjhaJykKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmF0dGFjaGVkX3RvIGlzIG5vdCBOb25lOgogICAgICAgICAgICByYWlzZSBFeGlzdGluZ0FsbG9jYXRpb25FcnJvcigKICAgICAgICAgICAgICAgIG9yZGVyX2lkPU5vbmUsCiAgICAgICAgICAgICAgICBvcmRlcl9pdGVtX2lkPXNlbGYucmVmZXJlbmNlCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBiZWNhdXNlX3dlX2hhbmRsZV90aGVfY29tbWFuZChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpeHR1cmVzLldpdGhfYV9mYWtlX2V2ZW50X3B1Ymxpc2hlcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpeHR1cmVzLldpdGhfYW5fdW5hbGxvY2F0ZWRfb3JkZXIsCg==</text>
+        <text encoding="base64">Y2xhc3MgT3JkZXJMaW5lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaXh0dXJlcy5XaXRoX2FuX2V4cHJlc3NfZGVsaXZlcnlfb3JkZXIsCiAgICAgICAgZml4dHVyZXMuV2l0aF9hX2Zha2VfZXZlbnRfcHVibGlzaGVyKToK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IDEgPT0gMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsaW5lLm1hcmtfZXh0ZXJuYWxseV9kaXNwYXRjaGVkKCk6CiAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">CiAgICBkZWYgaXRfc2hvdWxkX25vdF9hbGxvY2F0ZV9sYXRlcihzZWxmKToKICAgICAgICBjbWQgPSBmaXh0dXJlcy5BbGxvY2F0ZU9yZGVySXRlbUNvbW1hbmRCdWlsZGVyKCkgXAogICAgICAgICAgICAud2l0aF9vcmRlcl9pZChzZWxmLm9yZGVyLnJlZmVyZW5jZSkgXAogICAgICAgICAgICAud2l0aF9vcmRlcl9pdGVtX2lkKHNlbGYub3JkZXIubGluZXNbMF0ucmVmZXJlbmNlKSBcCiAgICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgaGFuZGxlcnMuQWxsb2NhdGVPcmRlckl0ZW1IYW5kbGVyKHNlbGYudW93bSkoY21kKQoKICAgICAgICBleHBlY3Qoc2VsZi5vcmRlci5jb25zaWdubWVudHMpLnRvKGhhdmVfbGVuKDApKQoKCgoKICAgIGRlZiBnaXZlbl9hX2NvbnNpZ25tZW50X3dpdGhfb25lX3BpY2tlZF9pbnN0cnVjdGlvbihzZWxmKToKICAgICAgICBzZWxmLmZpcnN0X2luc3RydWN0aW9uLnN0YXRlID0gb3JkZXJfbW9kZWwuSW5zdHJ1Y3Rpb24uU3RhdGUuQWNrbm93bGVkZ2VkCiAgICAgICAgc2VsZi5zZWNvbmRfaW5zdHJ1Y3Rpb24uc3RhdGUgPSBvcmRlcl9tb2RlbC5JbnN0cnVjdGlvbi5TdGF0ZS5QaWNrZWQKCiAgICAgICAgc2VsZi51b3dtLmNsZWFyKCkKCiAgICAgICAgc2VsZi5pbnRlcm5hbF9ldmVudCA9IGV2ZW50cy5vcmRlcl9saW5lX3N0YXJ0ZWRfcGlja2luZygKICAgICAgICAgICAgaWQ9c3RyKHV1aWQudXVpZDQoKSksCiAgICAgICAgICAgIGNvcnJlbGF0aW9uX2lkPXN0cih1dWlkLnV1aWQ0KCkpLAogICAgICAgICAgICBvcmRlcl9saW5lX3JlZmVyZW5jZT1zZWxmLm9yZGVyX2xpbmVfaWQsCiAgICAgICAgICAgIHBpY2tpbmdfc3RhcnRlZF9hdD1kYXRldGltZS5kYXRldGltZSgyMDE3LCAxMCwgMzAsIDE2LCAzNSwgMjgpLAogICAgICAgICkKCiAgICBkZWYgYmVjYXVzZV93ZV9oYW5kbGVfb3JkZXJfbGluZV9zdGFydGVkX3BpY2tpbmdfZXZlbnQoc2VsZik6CiAgICAgICAgaGFuZGxlcnMuT3JkZXJMaW5lUGlja2luZ0hhbmRsZXIoc2VsZi51b3dtLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucHVibGlzaGVyKShzZWxmLmludGVybmFsX2V2ZW50KQogICAgICAgIFtzZWxmLmV2ZW50XSA9IHNlbGYuZXZlbnRzdG9yZVsnb3JkZXIte30nLmZvcm1hdChzZWxmLm9yZGVyLnJlZmVyZW5jZSldCgogICAgZGVmIGl0X3Nob3VsZF9wdWJsaXNoX2FfcGlja2luZ19zdGFydGVkX2V2ZW50KHNlbGYpOgogICAgICAgIGV4cGVjdChzZWxmLmV2ZW50LnR5cGUpLnRvKGVxdWFsKCdwaWNraW5nX3N0YXJ0ZWQnKSkKCiAgICBkZWYgaXRfc2hvdWxkX3JlZmVyX3RvX3RoZV9vcmRlcl9pZF9jb3JyZWN0bHkoc2VsZik6CiAgICAgICAgZXhwZWN0KHNlbGYuZXZlbnQuZGF0YVsnb3JkZXJfaWQnXSkudG8oZXF1YWwoc2VsZi5vcmRlci5yZWZlcmVuY2UpKQoKICAgIGRlZiBpdF9zaG91bGRfcmVmZXJfdG9fdGhlX29yZGVyX2xpbmVfY29ycmVjdGx5KHNlbGYpOgogICAgICAgIGV4cGVjdChzZWxmLmV2ZW50LmRhdGFbJ29yZGVyX2l0ZW1faWQnXSkudG8oZXF1YWwoc2VsZi5vcmRlcl9saW5lX2lkKSkKCiAgICBkZWYgaXRfc2hvdWxkX2NvbnRhaW5fdGhlX3BpY2tpbmdfc3RhcnRlZF90aW1lc3RhbXAoc2VsZik6CiAgICAgICAgZXhwZWN0KHNlbGYuZXZlbnQuZGF0YVsncGlja2luZ19zdGFydGVkX3RpbWVzdGFtcCddKS50bygKICAgICAgICAgICAgZXF1YWwoJzIwMTctMTAtMzBUMTY6MzU6MjhaJykKICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>181</text>
       </register>
     </registers>
     <search>
@@ -292,7 +280,6 @@
         <entry>def allocate</entry>
       </history-search>
       <history-cmd>
-        <entry>sp</entry>
         <entry>Q</entry>
         <entry>sv</entry>
         <entry>vp</entry>
@@ -312,6 +299,7 @@
         <entry>w</entry>
         <entry>44</entry>
         <entry>wa</entry>
+        <entry>181</entry>
       </history-cmd>
       <history-expr />
       <history-input />
