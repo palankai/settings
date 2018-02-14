@@ -28,9 +28,9 @@
       <file name="/a.dummy" timestamp="1518532411155">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" timestamp="1518543486222">
-        <mark key="[" line="783" column="46" />
-        <mark key="]" line="783" column="46" />
+      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" timestamp="1518605855880">
+        <mark key="[" line="168" column="13" />
+        <mark key="]" line="168" column="37" />
         <mark key="." line="783" column="46" />
         <mark key="^" line="782" column="16" />
       </file>
@@ -60,6 +60,13 @@
       <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_allocate_order_item_handler.py" timestamp="1518534599822">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/adapters/orm/mappings.py" timestamp="1518605863545">
+        <mark key="'" line="209" column="19" />
+        <mark key="[" line="207" column="41" />
+        <mark key="]" line="207" column="39" />
+        <mark key="." line="207" column="39" />
+        <mark key="^" line="207" column="39" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517940948941">
         <mark key="'" line="160" column="29" />
@@ -105,7 +112,8 @@
         <mark key="." line="87" column="8" />
         <mark key="^" line="87" column="8" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/handlers.py" timestamp="1518543668606">
+      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/handlers.py" timestamp="1518605622412">
+        <mark key="'" line="1226" column="6" />
         <mark key="[" line="1454" column="65" />
         <mark key="]" line="1454" column="69" />
         <mark key="." line="1454" column="69" />
@@ -113,10 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="405" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
-      <jump line="417" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
-      <jump line="422" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
-      <jump line="424" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="428" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="586" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="589" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
@@ -213,19 +217,23 @@
       <jump line="2" column="61" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_mark_order_line_dispatched.py" />
       <jump line="180" column="41" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="21" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
+      <jump line="1226" column="6" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/handlers.py" />
+      <jump line="53" column="34" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/adapters/orm/mappings.py" />
+      <jump line="175" column="13" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/adapters/orm/mappings.py" />
+      <jump line="208" column="19" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/adapters/orm/mappings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>these</text>
+        <text encoding="base64">aXNfZXh0ZXJuYWxseV9kaXNwYXRjaGVkIA==</text>
       </register>
       <register name="-" type="4">
-        <text>these</text>
+        <text>cancelled</text>
       </register>
       <register name="/" type="4">
-        <text>def allocate</text>
+        <text>order_line</text>
       </register>
       <register name="0" type="4">
-        <text>self.instructions[</text>
+        <text encoding="base64">aXNfZXh0ZXJuYWxseV9kaXNwYXRjaGVkIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -259,9 +267,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def allocate</last-search>
+      <last-search>order_line</last-search>
       <last-offset />
-      <last-pattern>def allocate</last-pattern>
+      <last-pattern>order_line</last-pattern>
       <last-replace>warehouse_code</last-replace>
       <last-substitute>sol.warehouse_id.code</last-substitute>
       <last-dir>1</last-dir>
@@ -279,6 +287,7 @@
         <entry>def mark</entry>
         <entry encoding="base64">XDxtYXJrX2V4dGVybmFsbHlfZGlzcGF0Y2hlZFw+</entry>
         <entry>def allocate</entry>
+        <entry>order_line</entry>
       </history-search>
       <history-cmd>
         <entry>sv</entry>
