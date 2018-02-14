@@ -25,12 +25,18 @@
       <file name="/a.dummy" timestamp="1518532411155">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" timestamp="1518624093597">
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/deploy/openerp.conf.development" timestamp="1518624914133">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" timestamp="1518625140245">
         <mark key="'" line="63" column="0" />
-        <mark key="[" line="4" column="126" />
+        <mark key="[" line="4" column="40" />
         <mark key="]" line="4" column="125" />
-        <mark key="." line="4" column="125" />
-        <mark key="^" line="4" column="125" />
+        <mark key="." line="4" column="39" />
+        <mark key="^" line="4" column="39" />
       </file>
       <file name="$USER_HOME$/work/made.com/hacienda/_local/BOS-312.org" timestamp="1518191661420">
         <mark key="[" line="2" column="9" />
@@ -249,8 +255,8 @@
       <jump line="175" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgY29tbWl0KHNlbGYpOgogICAgICAgIHNlbGYuY3IuY29tbWl0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>PYTHONPATH=src:server python -m scripts.store_order_item_allocated_events_data --skus=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -259,7 +265,7 @@
         <text encoding="base64">XDxldmVudF9idXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>send_order_item_allocated</text>
+        <text>PYTHONPATH=src:server python -m scripts.store_order_item_allocated_events_data --skus=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBkZWYgY29tbWl0KHNlbGYpOgogICAgICAgIHNlbGYuY3IuY29tbWl0KCkK</text>
@@ -289,7 +295,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -337,8 +343,8 @@
         <entry>44</entry>
         <entry>181</entry>
         <entry>783</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
