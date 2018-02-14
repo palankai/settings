@@ -31,10 +31,11 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" timestamp="1518628824703">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" timestamp="1518631857941">
+        <mark key="[" line="81" column="40" />
+        <mark key="]" line="81" column="19" />
+        <mark key="." line="81" column="19" />
+        <mark key="^" line="81" column="19" />
       </file>
       <file name="$USER_HOME$/work/made.com/hacienda/_local/BOS-312.org" timestamp="1518191661420">
         <mark key="[" line="2" column="9" />
@@ -57,11 +58,12 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="64" column="8" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" timestamp="1518628612232">
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" timestamp="1518631965456">
         <mark key="'" line="529" column="7" />
-        <mark key="[" line="506" column="12" />
-        <mark key="]" line="506" column="36" />
-        <mark key="." line="561" column="0" />
+        <mark key="[" line="563" column="66" />
+        <mark key="]" line="564" column="7" />
+        <mark key="." line="564" column="7" />
+        <mark key="^" line="564" column="7" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_order_items.sh" timestamp="1518108072853">
         <mark key="'" line="43" column="10" />
@@ -253,17 +255,17 @@
       <jump line="65" column="17" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9yZGVyX2lkCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>SQL</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxldmVudF9idXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bWFkZV9zaGlwcGluZ29wdGlvbl9jb2RlIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRiLmNyLmV4ZWN1dGUoc3FsLCB7J3NrdXMnOnR1cGxlKHNrdXMpfSkKICAgIHJldHVybiBkYi5jci5mZXRjaGFsbCgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG9yZGVyX2lkCg==</text>
