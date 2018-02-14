@@ -127,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="586" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="589" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="592" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
@@ -227,6 +226,7 @@
       <jump line="53" column="34" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/adapters/orm/mappings.py" />
       <jump line="175" column="13" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/adapters/orm/mappings.py" />
       <jump line="208" column="19" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/adapters/orm/mappings.py" />
+      <jump line="563" column="4" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
