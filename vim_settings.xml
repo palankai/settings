@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/commands.py" timestamp="1518521415914">
+      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/commands.py" timestamp="1518692257720">
         <mark key="[" line="348" column="0" />
-        <mark key="]" line="351" column="0" />
+        <mark key="]" line="348" column="37" />
         <mark key="." line="348" column="0" />
       </file>
       <file name="/start_script.py" timestamp="1518623412136">
@@ -31,12 +31,12 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" timestamp="1518633950004">
-        <mark key="'" line="72" column="23" />
-        <mark key="[" line="29" column="52" />
-        <mark key="]" line="30" column="16" />
-        <mark key="." line="30" column="16" />
-        <mark key="^" line="30" column="16" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" timestamp="1518693223279">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="141" column="20" />
+        <mark key="]" line="141" column="37" />
+        <mark key="^" line="141" column="37" />
+        <mark key="." line="141" column="37" />
       </file>
       <file name="$USER_HOME$/work/made.com/hacienda/_local/BOS-312.org" timestamp="1518191661420">
         <mark key="[" line="2" column="9" />
@@ -100,6 +100,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/skus.txt" timestamp="1518690948860">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+      </file>
       <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" timestamp="1518605855880">
         <mark key="[" line="168" column="13" />
         <mark key="]" line="168" column="37" />
@@ -149,8 +155,8 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/handlers.py" timestamp="1518605622412">
-        <mark key="'" line="1226" column="6" />
+      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/handlers.py" timestamp="1518692127005">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="1454" column="65" />
         <mark key="]" line="1454" column="69" />
         <mark key="." line="1454" column="69" />
@@ -158,10 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
-      <jump line="189" column="4" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
-      <jump line="275" column="4" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
-      <jump line="303" column="4" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="352" column="4" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="566" column="4" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
       <jump line="680" column="4" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" />
@@ -258,6 +260,10 @@
       <jump line="240" column="4" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/reraise_order_dispatch_unit_updated_events.py" />
       <jump line="20" column="17" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/reraise_order_dispatch_unit_updated_events.py" />
       <jump line="71" column="23" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" />
+      <jump line="31" column="22" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/handlers.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -267,43 +273,43 @@
         <text>make_order_item_allocated_message</text>
       </register>
       <register name="-" type="4">
-        <text>sesison</text>
+        <text>generate_messages</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnBzaGVsbFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>scripts.store_order_item_allocated_events_data --skus=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbm90X3RvX2Rpc3BhdGNoID0gZ2VuZXJhdGVfbm90X3RvX2Rpc3BhdGNoX21lc3NhZ2VzKHNlc3Npb24sIHNrdXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvaXMpCg==</text>
+        <text encoding="base64">ICAgIGZvciBuYW1lLCBkYXRhIGluIG1lc3NhZ2VzLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoJ05BTUU6ICcsIG5hbWUpCiAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2VzID0gewogICAgICAgICdtYXJrX29yZGVyX2xpbmVfZXh0ZXJuYWxseV9kaXNwYXRjaGVkJzogbm90X3RvX2Rpc3BhdGNoLAogICAgICAgICdhbGxvY2F0ZV9vcmRlcl9pdGVtJzogdG9fZGlzcGF0Y2gsCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNjZXNzCg==</text>
+        <text encoding="base64">ICAgIHRvX2Rpc3BhdGNoID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5vdF90b19kaXNwYXRjaCA9IFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNvbCA9IGNvaS5zYWxlX29yZGVyX2xpbmVfaWQKICAgIHNoaXBwaW5nX29wdGlvbiA9ICgKICAgICAgICBjb2kubWFkZV9zaGlwcGluZ29wdGlvbl9jb2RlIG9yIHNvbC5tYWRlX3NoaXBwaW5nb3B0aW9uX2NvZGUKICAgICkKCiAgICBpZiBub3Qgc29sLm9yZGVyX2lkLm1hZ2VudG9fcmVmOgogICAgICAgIGxvZ2dlci5pbmZvKAogICAgICAgICAgICAnU2tpcHBpbmcgb3JkZXJfaXRlbV9hbGxvY2F0ZWQgZXZlbnQgYmVjYXVzZSBzbyAlcyBkb2VzIG5vdCcgKwogICAgICAgICAgICAnIGhhdmUgTWFnZW50byByZWZlcmVuY2UnLAogICAgICAgICAgICBzb2wub3JkZXJfaWQuaWQKICAgICAgICApCiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICBpZiBub3Qgc29sLm1hZ2VudG9faXRlbWlkOgogICAgICAgIGxvZ2dlci5pbmZvKAogICAgICAgICAgICAnU2tpcHBpbmcgb3JkZXJfaXRlbV9hbGxvY2F0ZWQgZXZlbnQgYmVjYXVzZSBzb2wgJXMgZG9lcyBub3QnICsKICAgICAgICAgICAgJyBoYXZlIE1hZ2VudG8gaXRlbSBpZCAoc286ICVzKScsCiAgICAgICAgICAgIHNvbC5pZCwgc29sLm9yZGVyX2lkLm1hZ2VudG9fcmVmCiAgICAgICAgKQogICAgICAgIHJldHVybiBGYWxzZQoKICAgIGlmIHNvbC5wcm9kdWN0X2lkLmRpc3BhdGNoX2Zyb21fZG9vbGV5X3J1bWJsZToKICAgICAgICB3YXJlaG91c2VfY29kZSA9ICdkb29sZXktcnVtYmxlJwogICAgZWxzZToKICAgICAgICB3YXJlaG91c2VfY29kZSA9IHNvbC53YXJlaG91c2VfaWQuY29kZQoKICAgIGlmIHdhcmVob3VzZV9jb2RlID09ICdvcml1bSc6CiAgICAgICAgc3ViX3dhcmVob3VzZSA9IHdhcmVob3VzZV9jb2RlCiAgICBlbHNlOgogICAgICAgIHN1Yl93YXJlaG91c2UgPSBzb2wucHJvZHVjdF9pZC5zdWJfd2FyZWhvdXNlCgogICAgaWYgc29sLm1hZGVfbWFnZW50b19zaGlwcGluZ19ncm91cDoKICAgICAgICBkZWxpdmVyeV9ncm91cF9pZCA9IHNvbC5tYWRlX2RlbGl2ZXJ5X2dyb3VwX2lkCiAgICBlbHNlOgogICAgICAgIGRlbGl2ZXJ5X2dyb3VwX2lkID0gTm9uZQoKICAgIG1lc3NhZ2UgPSB7CiAgICAgICAgJ29yZGVyX2lkJzogc29sLm9yZGVyX2lkLm1hZ2VudG9fcmVmLAogICAgICAgICdvcmRlcl9pdGVtX2lkJzogc29sLm1hZ2VudG9faXRlbWlkLAogICAgICAgICd3YXJlaG91c2VfY29kZSc6IHdhcmVob3VzZV9jb2RlLAogICAgICAgICdzdWJfd2FyZWhvdXNlX2NvZGUnOiBzdWJfd2FyZWhvdXNlLAogICAgICAgICdkZWxpdmVyeV9zZXJ2aWNlJzogc2hpcHBpbmdfb3B0aW9uLm5hbWUsCiAgICAgICAgJ2Rpc3BhdGNoX2RhdGUnOiBkYXRldGltZWZpZWxkLmRhdGVfZnJvbV9maWVsZF92YWx1ZShkaXNwYXRjaF9kYXRlKSwKICAgICAgICAnYWxsb2NhdGlvbl90aW1lJzogZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCksCiAgICAgICAgJ2RlbGl2ZXJ5X2dyb3VwX2lkJzogZGVsaXZlcnlfZ3JvdXBfaWQKICAgIH0KCiAgICBiYXRjaCA9IGNvaS5tYWRlX2JhdGNoX2lkCiAgICBpZiBiYXRjaDoKICAgICAgICBtZXNzYWdlWydiYXRjaF9pZCddID0gYmF0Y2guaWRlbnRpZmllcgogICAgICAgIG1lc3NhZ2VbJ3B1cmNoYXNlX29yZGVyX2lkJ10gPSBiYXRjaC5wdXJjaGFzZV9vcmRlcl9pZC5uYW1lCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZyb20gb3BlbmVycC5hZGRvbnMgaW1wb3J0IGV2ZW50X2J1cwo=</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcy5hcHBlbmQoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBsZW4ob3JkZXJfbGluZV9pZHMpID4gMAogICAgc3FsID0gIiIiCiAgICBTRUxFQ1QgaWQgRlJPTSBtYWRlX2JhdGNoZXNfY29pCiAgICBXSEVSRSBzYWxlX29yZGVyX2xpbmVfaWQgSU4gKCUob3JkZXJfbGluZV9pZHMpcykKICAgICIiIgogICAgZGIuY3IuZXhlY3V0ZShzcWwsIHsnb3JkZXJfbGluZV9pZHMnOnR1cGxlKG9yZGVyX2xpbmVfaWRzKX0pCiAgICByZXR1cm4gW2NvaV9pZCBmb3IgKGNvaV9pZCwpIGluIHNlc3Npb24uY3IuZmV0Y2hhbGwoKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGljdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -354,10 +360,10 @@
         <entry>44</entry>
         <entry>181</entry>
         <entry>783</entry>
-        <entry>w</entry>
         <entry>ls</entry>
         <entry>register</entry>
         <entry>registers</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
