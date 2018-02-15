@@ -22,7 +22,7 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1518532411155">
+      <file name="/a.dummy" timestamp="1518695910983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/deploy/openerp.conf.development" timestamp="1518624914133">
@@ -31,12 +31,12 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" timestamp="1518695332415">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="18" column="60" />
-        <mark key="]" line="18" column="60" />
-        <mark key="." line="18" column="60" />
-        <mark key="^" line="19" column="20" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" timestamp="1518695787014">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="27" column="27" />
+        <mark key="." line="27" column="27" />
+        <mark key="^" line="27" column="27" />
       </file>
       <file name="$USER_HOME$/work/made.com/hacienda/_local/BOS-312.org" timestamp="1518191661420">
         <mark key="[" line="2" column="9" />
@@ -50,6 +50,12 @@
         <mark key="]" line="253" column="0" />
         <mark key="^" line="252" column="56" />
         <mark key="." line="253" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/generate_migration_commands.py" timestamp="1518695983225">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+        <mark key="^" line="11" column="33" />
       </file>
       <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_mark_order_line_dispatched.py" timestamp="1518535155772">
         <mark key="'" line="2" column="61" />
@@ -79,6 +85,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1518633713196">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
       </file>
       <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/migrations/versions/4b90d69045de_dispatched_externally.py" timestamp="1518607049679">
         <mark key="[" line="23" column="63" />
@@ -273,7 +285,7 @@
         <text>make_order_item_allocated_message</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>store_order_item_allocated_events_data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnBzaGVsbFw+</text>
@@ -282,34 +294,34 @@
         <text encoding="base64">IC0gYWxsb2NhdGVfb3JkZXJfaXRlbS5qc29uLmxpc3Q6IGFsbG9jYXRlX29yZGVyX2l0ZW0gY29tbWFuZHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNxbCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvX2Rpc3BhdGNoX2ZuID0gb3MucGF0aC5qb2luKAogICAgICAgIGFyZ3Mub3V0cHV0LCAnYWxsb2NhdGVfb3JkZXJfaXRlbS5qc29uLmxpc3QnCiAgICApCiAgICBub3RfdG9fZGlzcGF0Y2hfZm4gPSBvcy5wYXRoLmpvaW4oCiAgICAgICAgYXJncy5vdXRwdXQsICdtYXJrX29yZGVyX2xpbmVfZXh0ZXJuYWxseV9kaXNwYXRjaGVkLmpzb24ubGlzdCcKICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2VbJ2Rpc3BhdGNoX2RhdGUnXSA9IG1lc3NhZ2VbJ2Rpc3BhdGNoX2RhdGUnXS5pc29mb3JtYXQoKQo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UobWVzc2FnZVsnZGlzcGF0Y2hfZGF0ZSddLCBkYXRldGltZSkK</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHRvX2Rpc3BhdGNoX2ZuID0gb3MucGF0aC5qb2luKAogICAgICAgIGFyZ3Mub3V0cHV0LCAnYWxsb2NhdGVfb3JkZXJfaXRlbS5qc29uLmxpc3QnCiAgICApCiAgICBub3RfdG9fZGlzcGF0Y2hfZm4gPSBvcy5wYXRoLmpvaW4oCiAgICAgICAgYXJncy5vdXRwdXQsICdtYXJrX29yZGVyX2xpbmVfZXh0ZXJuYWxseV9kaXNwYXRjaGVkLmpzb24ubGlzdCcKICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2VbJ2Rpc3BhdGNoX2RhdGUnXSA9IG1lc3NhZ2VbJ2Rpc3BhdGNoX2RhdGUnXS5pc29mb3JtYXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHByb2dyZXNzYmFyCg==</text>
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UobWVzc2FnZVsnZGlzcGF0Y2hfZGF0ZSddLCBkYXRldGltZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd0byBkaXNwYXRjaCcpCiAgICBwcmludCh0b19kaXNwYXRjaCkKCiAgICBwcmludCgnbm90IHRvIGRpc3BhdGMnKQogICAgcHJpbnQobm90X3RvX2Rpc3BhdGNoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
