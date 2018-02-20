@@ -103,6 +103,12 @@
       <file name="/Dummy.txt" timestamp="1519045835762">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/made_batches_shipment.py" timestamp="1519123197844">
+        <mark key="[" line="593" column="30" />
+        <mark key="]" line="593" column="29" />
+        <mark key="^" line="593" column="29" />
+        <mark key="." line="593" column="29" />
+      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="25" />
