@@ -1,7 +1,9 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="A" line="187" column="26" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" protocol="file" />
+    </globalmarks>
     <filemarks>
       <file name="/start_script.py" timestamp="1518623412136">
         <mark key="[" line="0" column="0" />
@@ -102,11 +104,12 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="76" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" timestamp="1519233662795">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="8" />
-        <mark key="^" line="164" column="3" />
-        <mark key="." line="164" column="8" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" timestamp="1519234599975">
+        <mark key="'" line="228" column="50" />
+        <mark key="[" line="159" column="12" />
+        <mark key="]" line="159" column="18" />
+        <mark key="." line="159" column="18" />
+        <mark key="^" line="159" column="18" />
       </file>
       <file name="/Dummy.regexp" timestamp="1519233773990">
         <mark key="[" line="0" column="0" />
@@ -229,18 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="516" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
-      <jump line="508" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
-      <jump line="503" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
-      <jump line="487" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
-      <jump line="475" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
-      <jump line="468" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
-      <jump line="320" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
-      <jump line="301" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
-      <jump line="319" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
-      <jump line="332" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
-      <jump line="344" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
-      <jump line="356" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
       <jump line="364" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
       <jump line="384" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
       <jump line="392" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" />
@@ -317,7 +308,6 @@
       <jump line="66" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="70" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="108" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="135" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="111" column="14" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="49" column="28" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
@@ -329,6 +319,19 @@
       <jump line="64" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="102" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="104" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="110" column="8" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="171" column="32" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="220" column="29" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="217" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="212" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="202" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="196" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
+      <jump line="227" column="50" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -338,16 +341,16 @@
         <text>make_order_item_allocated_message</text>
       </register>
       <register name="-" type="4">
-        <text>session</text>
+        <text>ids</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY3Vyc29yXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIG1ha2Vfb3JkZXJfaXRlbV9hbGxvY2F0ZWRfbWVzc2FnZShjb2ksIGRpc3BhdGNoX2RhdGUpOgogICAgc29sID0gY29pLnNhbGVfb3JkZXJfbGluZV9pZAogICAgc2hpcHBpbmdfb3B0aW9uID0gKAogICAgICAgICAgICBjb2kubWFkZV9zaGlwcGluZ29wdGlvbl9jb2RlIG9yIHNvbC5tYWRlX3NoaXBwaW5nb3B0aW9uX2NvZGUKICAgICkKCiAgICBpZiBub3Qgc29sLm9yZGVyX2lkLm1hZ2VudG9fcmVmOgogICAgICAgIGxvZ2dlci5pbmZvKAogICAgICAgICAgICAnU2tpcHBpbmcgb3JkZXJfaXRlbV9hbGxvY2F0ZWQgZXZlbnQgYmVjYXVzZSBzbyAlcyBkb2VzIG5vdCcgKwogICAgICAgICAgICAnIGhhdmUgTWFnZW50byByZWZlcmVuY2UnLAogICAgICAgICAgICBzb2wub3JkZXJfaWQuaWQKICAgICAgICApCiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICBpZiBub3Qgc29sLm1hZ2VudG9faXRlbWlkOgogICAgICAgIGxvZ2dlci5pbmZvKAogICAgICAgICAgICAnU2tpcHBpbmcgb3JkZXJfaXRlbV9hbGxvY2F0ZWQgZXZlbnQgYmVjYXVzZSBzb2wgJXMgZG9lcyBub3QnICsKICAgICAgICAgICAgJyBoYXZlIE1hZ2VudG8gaXRlbSBpZCAoc286ICVzKScsCiAgICAgICAgICAgIHNvbC5pZCwgc29sLm9yZGVyX2lkLm1hZ2VudG9fcmVmCiAgICAgICAgKQogICAgICAgIHJldHVybiBGYWxzZQoKICAgIGlmIHNvbC5wcm9kdWN0X2lkLmRpc3BhdGNoX2Zyb21fZG9vbGV5X3J1bWJsZToKICAgICAgICB3YXJlaG91c2VfY29kZSA9ICdkb29sZXktcnVtYmxlJwogICAgZWxzZToKICAgICAgICB3YXJlaG91c2VfY29kZSA9IHNvbC53YXJlaG91c2VfaWQuY29kZQoKICAgIGlmIHdhcmVob3VzZV9jb2RlID09ICdvcml1bSc6CiAgICAgICAgc3ViX3dhcmVob3VzZSA9IHdhcmVob3VzZV9jb2RlCiAgICBlbHNlOgogICAgICAgIHN1Yl93YXJlaG91c2UgPSBzb2wucHJvZHVjdF9pZC5zdWJfd2FyZWhvdXNlCgogICAgaWYgc29sLm1hZGVfbWFnZW50b19zaGlwcGluZ19ncm91cDoKICAgICAgICBkZWxpdmVyeV9ncm91cF9pZCA9IHNvbC5tYWRlX2RlbGl2ZXJ5X2dyb3VwX2lkCiAgICBlbHNlOgogICAgICAgIGRlbGl2ZXJ5X2dyb3VwX2lkID0gTm9uZQoKICAgIG1lc3NhZ2UgPSB7CiAgICAgICAgJ29yZGVyX2lkJzogc29sLm9yZGVyX2lkLm1hZ2VudG9fcmVmLAogICAgICAgICdvcmRlcl9pdGVtX2lkJzogc29sLm1hZ2VudG9faXRlbWlkLAogICAgICAgICd3YXJlaG91c2VfY29kZSc6IHdhcmVob3VzZV9jb2RlLAogICAgICAgICdzdWJfd2FyZWhvdXNlX2NvZGUnOiBzdWJfd2FyZWhvdXNlLAogICAgICAgICdkZWxpdmVyeV9zZXJ2aWNlJzogc2hpcHBpbmdfb3B0aW9uLm5hbWUsCiAgICAgICAgJ2Rpc3BhdGNoX2RhdGUnOiBkYXRldGltZWZpZWxkLmRhdGVfZnJvbV9maWVsZF92YWx1ZShkaXNwYXRjaF9kYXRlKSwKICAgICAgICAnYWxsb2NhdGlvbl90aW1lJzogZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCksCiAgICAgICAgJ2RlbGl2ZXJ5X2dyb3VwX2lkJzogZGVsaXZlcnlfZ3JvdXBfaWQKICAgIH0KCiAgICBiYXRjaCA9IGNvaS5tYWRlX2JhdGNoX2lkCiAgICBpZiBiYXRjaDoKICAgICAgICBtZXNzYWdlWydiYXRjaF9pZCddID0gYmF0Y2guaWRlbnRpZmllcgogICAgICAgIG1lc3NhZ2VbJ3B1cmNoYXNlX29yZGVyX2lkJ10gPSBiYXRjaC5wdXJjaGFzZV9vcmRlcl9pZC5uYW1lCiAgICByZXR1cm4gbWVzc2FnZQo=</text>
+      <register name="0" type="4">
+        <text>magento_itemid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgpkZWYgZ2V0X2NvaV9pZHMoY3IsIG9yZGVyX2xpbmVfaWRzKToKICAgIHNxbCA9ICIiIgogICAgU0VMRUNUIGlkIEZST00gbWFkZV9iYXRjaGVzX2NvaSBXSEVSRSBzYWxlX29yZGVyX2xpbmVfaWQgSU4gJXMKICAgICIiIgogICAgY3IuZXhlY3V0ZShzcWwsIChvcmRlcl9saW5lX2lkcywgKSkKICAgIHJldHVybiBbaWQgZm9yIChpZCwpIGluIGNyLmZldGNoYWxsKCldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -356,28 +359,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBzb2wubWFnZW50b19pdGVtaWQ6CiAgICAgICAgbG9nZ2VyLmluZm8oCiAgICAgICAgICAgICdTa2lwcGluZyBvcmRlcl9pdGVtX2FsbG9jYXRlZCBldmVudCBiZWNhdXNlIHNvbCAlcyBkb2VzIG5vdCcgKwogICAgICAgICAgICAnIGhhdmUgTWFnZW50byBpdGVtIGlkIChzbzogJXMpJywKICAgICAgICAgICAgc29sLmlkLCBzb2wub3JkZXJfaWQubWFnZW50b19yZWYKICAgICAgICApCiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBzb2wub3JkZXJfaWQubWFnZW50b19yZWY6CiAgICAgICAgbG9nZ2VyLmluZm8oCiAgICAgICAgICAgICdTa2lwcGluZyBvcmRlcl9pdGVtX2FsbG9jYXRlZCBldmVudCBiZWNhdXNlIHNvICVzIGRvZXMgbm90JyArCiAgICAgICAgICAgICcgaGF2ZSBNYWdlbnRvIHJlZmVyZW5jZScsCiAgICAgICAgICAgIHNvbC5vcmRlcl9pZC5pZAogICAgICAgICkKICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29pLm1hZGVfc2hpcHBpbmdvcHRpb25fY29kZSBvciBzb2wubWFkZV9zaGlwcGluZ29wdGlvbl9jb2RlCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgpkZWY=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CgpkZWYgZ2V0X2NvaV9pZHMoY3IsIG9yZGVyX2xpbmVfaWRzKToKICAgIHNxbCA9ICIiIgogICAgU0VMRUNUIGlkIEZST00gbWFkZV9iYXRjaGVzX2NvaSBXSEVSRSBzYWxlX29yZGVyX2xpbmVfaWQgSU4gJXMKICAgICIiIgogICAgY3IuZXhlY3V0ZShzcWwsIChvcmRlcl9saW5lX2lkcywgKSkKICAgIHJldHVybiBbaWQgZm9yIChpZCwpIGluIGNyLmZldGNoYWxsKCldCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpkZWYgZ2V0X2NvaV9pZHMoY3IsIG9yZGVyX2xpbmVfaWRzKToKICAgIFNRTCA9ICIiIgogICAgU0VMRUNUIGlkIEZST00gbWFkZV9iYXRjaGVzX2NvaSBXSEVSRSBzYWxlX29yZGVyX2xpbmVfaWQgSU4gJXMKICAgICIiIgogICAgY3IuZXhlY3V0ZShzcWwsIHsnc2t1cyc6dHVwbGUoc2t1cyl9KQogICAgcmV0dXJuIFtpZCBmb3IgKGlkLCkgaW4gY3IuZmV0Y2hhbGwoKV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbclswXV0KICAgIGNvaV9tb2RlbCA9IHNlc3Npb24ucG9vbC5nZXQoJ21hZGVfYmF0Y2hlcy5jb2knKQogICAgY29pX2lkcyA9IGNvaV9tb2RlbC5zZWFyY2goCiAgICAgICAgc2Vzc2lvbi5jciwgc2Vzc2lvbi51aWQsCiAgICAgICAgWygnc2FsZV9vcmRlcl9saW5lX2lkJywgJ2luJywgb3JkZXJfbGluZV9pZHMpXSwKICAgICAgICBjb250ZXh0PXNlc3Npb24uY29udGV4dAogICAgKQogICAgcmV0dXJuIGNvaV9tb2RlbC5icm93c2UoCiAgICAgICAgc2Vzc2lvbi5jciwgc2Vzc2lvbi51aWQsIGNvaV9pZHMsIGNvbnRleHQ9c2Vzc2lvbi5jb250ZXh0CiAgICApCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBzb2wubWFnZW50b19pdGVtaWQ6CiAgICAgICAgbG9nZ2VyLmluZm8oCiAgICAgICAgICAgICdTa2lwcGluZyBvcmRlcl9pdGVtX2FsbG9jYXRlZCBldmVudCBiZWNhdXNlIHNvbCAlcyBkb2VzIG5vdCcgKwogICAgICAgICAgICAnIGhhdmUgTWFnZW50byBpdGVtIGlkIChzbzogJXMpJywKICAgICAgICAgICAgc29sLmlkLCBzb2wub3JkZXJfaWQubWFnZW50b19yZWYKICAgICAgICApCiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBzb2wub3JkZXJfaWQubWFnZW50b19yZWY6CiAgICAgICAgbG9nZ2VyLmluZm8oCiAgICAgICAgICAgICdTa2lwcGluZyBvcmRlcl9pdGVtX2FsbG9jYXRlZCBldmVudCBiZWNhdXNlIHNvICVzIGRvZXMgbm90JyArCiAgICAgICAgICAgICcgaGF2ZSBNYWdlbnRvIHJlZmVyZW5jZScsCiAgICAgICAgICAgIHNvbC5vcmRlcl9pZC5pZAogICAgICAgICkKICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcHJveHkoc2VsZik6Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgpkZWY=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
     </registers>
     <search>
@@ -426,13 +429,13 @@
         <entry>register</entry>
         <entry>registers</entry>
         <entry>93</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>52</entry>
         <entry>700</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>W</entry>
         <entry>w</entry>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
