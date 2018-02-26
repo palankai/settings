@@ -40,9 +40,9 @@
       <file name="/a.dummy" timestamp="1519230662155">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" timestamp="1519665222941">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="26" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" timestamp="1519665550384">
+        <mark key="[" line="91" column="14" />
+        <mark key="]" line="91" column="28" />
         <mark key="." line="1" column="26" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core.env" timestamp="1518797570173">
@@ -55,11 +55,11 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="53" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/cancellation_request.json" timestamp="1519665113291">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="30" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/cancellation_request.json" timestamp="1519665557790">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_order_line_picking_handler.py" timestamp="1518534512011">
         <mark key="'" line="64" column="8" />
@@ -164,7 +164,6 @@
         <mark key="." line="1454" column="69" />
         <mark key="^" line="1454" column="69" />
       </file>
-      <file name="$USER_HOME$/work/made.com/eventstore-utils/setup.py" timestamp="1519653160886" />
       <file name="/Python Console" timestamp="1519215180260">
         <mark key="[" line="0" column="0" />
       </file>
@@ -224,7 +223,7 @@
         <mark key="." line="253" column="35" />
         <mark key="^" line="205" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519646317914">
+      <file name="/Dummy.txt" timestamp="1519669880848">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
@@ -422,7 +421,7 @@
         <text encoding="base64">XDw4ODg4OFw+</text>
       </register>
       <register name="0" type="4">
-        <text>88800-2</text>
+        <text>PLEDGE001PCS-UK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">MTAxMzgyMzE4Cg==</text>
@@ -455,7 +454,7 @@
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAiZGVsaXZlcmFibGUiOiB7CiAgICAgICAgICAgICIkaWRyZWYiOiAiODg4ODgtMSIKICAgICAgICAgIH0sCiAgICAgICAgICAicXR5IjogMQogICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -491,7 +490,6 @@
         <entry encoding="base64">XDw4ODg4OFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>158</entry>
         <entry>44</entry>
         <entry>181</entry>
         <entry>783</entry>
@@ -511,6 +509,7 @@
         <entry>151</entry>
         <entry>w</entry>
         <entry>wa</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
