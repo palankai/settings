@@ -25,6 +25,12 @@
         <mark key="[" line="699" column="9" />
         <mark key="]" line="699" column="41" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1519743644389">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/sale.py" timestamp="1518620548928">
         <mark key="[" line="15" column="43" />
         <mark key="]" line="16" column="11" />
@@ -193,8 +199,11 @@
         <mark key="^" line="252" column="56" />
         <mark key="." line="253" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/draft_po.csv" timestamp="1519731800364">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/draft_po.csv" timestamp="1519732435711">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/generate_migration_commands.py" timestamp="1519233023689">
         <mark key="'" line="60" column="0" />
@@ -427,37 +436,37 @@
         <text>PLEDGE001PCS-UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MTAxMzgyMzE4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZGVsaXZlcnlfZ3JvdXBfY2hhcmdlcyI6IFsKICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">MTAxMzgyMzE4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImV4IjogNDA4MywKICAgICAgICAgICAgImluYyI6IDQ5MDAK</text>
+        <text encoding="base64">ICAiZGVsaXZlcnlfZ3JvdXBfY2hhcmdlcyI6IFsKICBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiZXgiOiA0MDgzLAogICAgICAgICJpbmMiOiA0OTAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiZXgiOiA0MDgzLAogICAgICAgICJpbmMiOiA0OTAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImV4IjogNDA4MywKICAgICAgICAgICAgImluYyI6IDQ5MDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgImJhc2VfY2hhcmdlIjogewogICAgICAgICJleCI6IDAsCiAgICAgICAgImluYyI6IDAKICAgICAgfSwKICAgICAgImFkZGl0aW9uYWxfY2hhcmdlIjogewogICAgICAgICJleCI6IDAsCiAgICAgICAgImluYyI6IDAKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAiZXgiOiA0MDgzLAogICAgICAgICJpbmMiOiA0OTAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q1VTS0ROMDAzR1JZLVVLCg==</text>
+        <text encoding="base64">ICAgICAgICAiZXgiOiA0MDgzLAogICAgICAgICJpbmMiOiA0OTAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAiZGVsaXZlcmFibGUiOiB7CiAgICAgICAgICAgICIkaWRyZWYiOiAiODg4ODgtMSIKICAgICAgICAgIH0sCiAgICAgICAgICAicXR5IjogMQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgImJhc2VfY2hhcmdlIjogewogICAgICAgICJleCI6IDAsCiAgICAgICAgImluYyI6IDAKICAgICAgfSwKICAgICAgImFkZGl0aW9uYWxfY2hhcmdlIjogewogICAgICAgICJleCI6IDAsCiAgICAgICAgImluYyI6IDAKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -510,9 +519,9 @@
         <entry>Wqa</entry>
         <entry>wqa</entry>
         <entry>151</entry>
-        <entry>w</entry>
-        <entry>wa</entry>
         <entry>qa</entry>
+        <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
