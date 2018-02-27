@@ -20,16 +20,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/sale_order_line.py" timestamp="1519291189969">
-        <mark key="'" line="700" column="12" />
-        <mark key="[" line="699" column="9" />
-        <mark key="]" line="699" column="41" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1519743943834">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1519744125153">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="53" />
+        <mark key="^" line="11" column="51" />
+        <mark key="." line="11" column="51" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/sale.py" timestamp="1518620548928">
         <mark key="[" line="15" column="43" />
@@ -67,20 +62,10 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_order_line_picking_handler.py" timestamp="1518534512011">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="64" column="8" />
-      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_6.json" timestamp="1519662672528">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="157" column="1" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/reraise_order_dispatch_unit_updated_events.py" timestamp="1518782030288">
-        <mark key="'" line="220" column="24" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="76" />
       </file>
       <file name="/Dummy.regexp" timestamp="1519233773990">
         <mark key="[" line="0" column="0" />
@@ -96,11 +81,6 @@
         <mark key="]" line="23" column="67" />
         <mark key="^" line="23" column="67" />
         <mark key="." line="23" column="67" />
-      </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/deploy/containers/eventstorereader/handlers.py" timestamp="1518794201329">
-        <mark key="'" line="235" column="53" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="47" column="9" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/skus.txt" timestamp="1519227137996">
         <mark key="[" line="0" column="0" />
@@ -212,10 +192,9 @@
         <mark key="." line="138" column="4" />
         <mark key="^" line="137" column="5" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" timestamp="1519237330378">
-        <mark key="'" line="645" column="0" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="26" />
+      <file name="$USER_HOME$/work/made.com/procurement/api/api/app.py" timestamp="1519744064086">
+        <mark key="[" line="509" column="12" />
+        <mark key="]" line="509" column="52" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_order_items.sh" timestamp="1518108072853">
         <mark key="'" line="43" column="10" />
@@ -304,6 +283,10 @@
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/procurement/procurement/src/procurement/domain/commands.py" timestamp="1519744087493">
+        <mark key="[" line="539" column="13" />
+        <mark key="]" line="539" column="38" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/export_orders_items.py" timestamp="1518011566337">
         <mark key="[" line="5" column="30" />
@@ -427,13 +410,13 @@
         <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw4ODg4OFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>PLEDGE001PCS-UK</text>
+      <register name="0" type="2">
+        <text encoding="base64">UE9TVCAvYXBpL29yZGVyLzxyZWZlcmVuY2U+L3NldF9zdWQKQXV0aG9yaXphdGlvbjogSldUIC4uLnRva2VuLi4uCkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbgoKeyJzdWQiOiAiPGRhdGU+In0KCgpQT1NUIC9hcGkvb3JkZXIvPHJlZmVyZW5jZT4vY2hhbmdlX2Rlc3RpbmF0aW9uCkF1dGhvcml6YXRpb246IEpXVCAuLi50b2tlbi4uLgpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24KCnsiZGVzdGluYXRpb25fd2FyZWhvdXNlX2NvZGUiOiAiaWZvcmNlfGRvb2xleS1ydW1ibGUifQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
