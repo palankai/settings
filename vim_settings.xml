@@ -8,24 +8,25 @@
       <file name="/start_script.py" timestamp="1518623412136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/sale_order_line.py" timestamp="1519291189969">
-        <mark key="'" line="700" column="12" />
-        <mark key="[" line="699" column="9" />
-        <mark key="]" line="699" column="41" />
-      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/sale.py" timestamp="1518620548928">
         <mark key="[" line="15" column="43" />
         <mark key="]" line="16" column="11" />
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/classes.puml" timestamp="1519470659270">
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/classes.puml" timestamp="1519470730768">
         <mark key="[" line="31" column="29" />
-        <mark key="]" line="31" column="38" />
-        <mark key="." line="31" column="38" />
-        <mark key="^" line="26" column="25" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+        <mark key="^" line="23" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1519230662155">
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/trading/domain/events.py" timestamp="1519558990397">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="5" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="13" column="5" />
+      </file>
+      <file name="/a.dummy" timestamp="1519561570059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core.env" timestamp="1518797570173">
@@ -34,15 +35,37 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_order_line_picking_handler.py" timestamp="1518534512011">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="64" column="8" />
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/trading/domain/primitives.py" timestamp="1519560895432">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="77" column="26" />
+        <mark key="]" line="78" column="3" />
+        <mark key="." line="78" column="3" />
+        <mark key="^" line="78" column="3" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/reraise_order_dispatch_unit_updated_events.py" timestamp="1518782030288">
-        <mark key="'" line="220" column="24" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="76" />
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" timestamp="1519559208773">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="85" column="6" />
+        <mark key="]" line="85" column="12" />
+        <mark key="." line="85" column="12" />
+        <mark key="^" line="85" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/trading/domain/commands.py" timestamp="1519559188094">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+      </file>
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/testing/event_generator.py" timestamp="1519475355156">
+        <mark key="[" line="26" column="66" />
+        <mark key="]" line="26" column="64" />
+        <mark key="." line="26" column="64" />
+        <mark key="^" line="26" column="64" />
+      </file>
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/main/start.py" timestamp="1519910525967">
+        <mark key="[" line="83" column="11" />
+        <mark key="]" line="83" column="14" />
+        <mark key="." line="83" column="14" />
+        <mark key="^" line="83" column="14" />
       </file>
       <file name="/Dummy.regexp" timestamp="1519233773990">
         <mark key="[" line="0" column="0" />
@@ -58,11 +81,6 @@
         <mark key="]" line="23" column="67" />
         <mark key="^" line="23" column="67" />
         <mark key="." line="23" column="67" />
-      </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/deploy/containers/eventstorereader/handlers.py" timestamp="1518794201329">
-        <mark key="'" line="235" column="53" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="47" column="9" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/skus.txt" timestamp="1519227137996">
         <mark key="[" line="0" column="0" />
@@ -84,6 +102,11 @@
       </file>
       <file name="/PostgreSQL Fragment (generate_migration_commands.py:4365).sql" timestamp="1519150240317">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/primitives.py" timestamp="1519560874476">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/classes.puml" timestamp="1519469390142">
         <mark key="'" line="0" column="0" />
@@ -109,6 +132,12 @@
         <mark key="]" line="1454" column="69" />
         <mark key="." line="1454" column="69" />
         <mark key="^" line="1454" column="69" />
+      </file>
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/trading/domain/models.py" timestamp="1519560966389">
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="4" column="60" />
+        <mark key="^" line="4" column="60" />
+        <mark key="." line="4" column="60" />
       </file>
       <file name="/Python Console" timestamp="1519215180260">
         <mark key="[" line="0" column="0" />
@@ -146,16 +175,10 @@
         <mark key="." line="138" column="4" />
         <mark key="^" line="137" column="5" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/handlers.py" timestamp="1519233391968">
-        <mark key="'" line="505" column="14" />
-        <mark key="[" line="517" column="0" />
-        <mark key="]" line="568" column="18" />
-        <mark key="." line="515" column="1" />
-      </file>
-      <file name="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" timestamp="1519237330378">
-        <mark key="'" line="645" column="0" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="26" />
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/requirements.txt" timestamp="1519902899592">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_order_items.sh" timestamp="1518108072853">
         <mark key="'" line="43" column="10" />
@@ -194,9 +217,18 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" timestamp="1519464086651">
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="22" />
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/main/bootstrap.py" timestamp="1519902977597">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" timestamp="1519560986936">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="113" column="5" />
+        <mark key="]" line="113" column="5" />
+        <mark key="^" line="3" column="49" />
+        <mark key="." line="113" column="5" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/export_events.py" timestamp="1518016425220">
         <mark key="[" line="103" column="56" />
@@ -248,45 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="445" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="452" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="456" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="459" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="463" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="466" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="475" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="478" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="485" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="493" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="498" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="504" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="510" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="513" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="521" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="525" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="529" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="532" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="537" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="540" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="545" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="553" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="555" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="564" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="571" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="590" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="603" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="614" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="618" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="623" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="626" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="630" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="634" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="637" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="641" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="645" column="0" filename="$USER_HOME$/anaconda3/envs/made-erp/lib/python2.7/argparse.py" />
-      <jump line="113" column="16" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="230" column="37" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="226" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="221" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="170" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="145" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
@@ -348,52 +341,91 @@
       <jump line="90" column="3" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/classes.puml" />
       <jump line="3" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/classes.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/classes.puml" />
+      <jump line="5" column="14" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="94" column="7" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="3" column="62" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="96" column="21" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="92" column="8" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="26" column="35" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="107" column="22" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="4" column="70" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="101" column="24" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="82" column="12" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="45" column="4" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/trading/domain/primitives.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNwZWNpZmljYXRpb25zIC0tW2hpZGRlbl0tLSBtb2RlbHMK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDEwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5kb21haW4gLS1baGlkZGVuXS0tIC5zZXJ2aWNlcwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnVGVybWluYXRlZC4uLiAlcycgJSBzaWcpCiAgICAgICAgc2VsZi5fdGVybWluYXRlZC5zZXQoKQogICAgICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoc2VsZi5fdGVybWluYXRlX3RpbWVvdXQpCiAgICAgICAgcHJpbnQoIkFwcGxpY2F0aW9uIGRvZXNuJ3Qgd2FudCB0byBzdG9wIikKICAgICAgICBzZWxmLl9sb29wLnN0b3AoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgK2xvdzogZmxvYXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ludGVycnVwdCByZWNlaXZlZCwgZG8gaXQgYWdhaW4gZm9yIHN0b3AgaW4ge31zJy5mb3JtYXQoCiAgICAgICAgICAgICAgICBzZWxmLl9pbnRlcnJ1cHRfdGltZW91dAogICAgICAgICAgICApKQogICAgICAgICAgICBzZWxmLl9pbnRlcnJ1cHRlZC5zZXQoKQogICAgICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKHNlbGYuX2ludGVycnVwdF90aW1lb3V0KQogICAgICAgICAgICBzZWxmLl9pbnRlcnJ1cHRlZC5jbGVhcigpCiAgICAgICAgICAgIHByaW50KCdJbnRlcnJ1cHRpb24gcmVzdG9yZWQnKQogICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgK2Nsb3NlOiBmbG9hdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbnRlcnJ1cHRlZCA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">WypdIC0tPiBBY3RpdmUgOiBDYW5kbGVDb21wbGV0ZQoKc3RhdGUgQWN0aXZlIHsKICBbKl0gLT4gTnVtTG9ja09mZgogIE51bUxvY2tPZmYgLS0+IE51bUxvY2tPbiA6IEV2TnVtTG9ja1ByZXNzZWQKICBOdW1Mb2NrT24gLS0+IE51bUxvY2tPZmYgOiBFdk51bUxvY2tQcmVzc2VkCiAgLS0KICBbKl0gLT4gQ2Fwc0xvY2tPZmYKICBDYXBzTG9ja09mZiAtLT4gQ2Fwc0xvY2tPbiA6IEV2Q2Fwc0xvY2tQcmVzc2VkCiAgQ2Fwc0xvY2tPbiAtLT4gQ2Fwc0xvY2tPZmYgOiBFdkNhcHNMb2NrUHJlc3NlZAogIC0tCiAgWypdIC0+IFNjcm9sbExvY2tPZmYKICBTY3JvbGxMb2NrT2ZmIC0tPiBTY3JvbGxMb2NrT24gOiBFdkNhcHNMb2NrUHJlc3NlZAogIFNjcm9sbExvY2tPbiAtLT4gU2Nyb2xsTG9ja09mZiA6IEV2Q2Fwc0xvY2tQcmVzc2VkCn0KCgo=</text>
+        <text encoding="base64">ICAgIGFzeW5jIGRlZiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWxpY2UgLT4gQm9iOiBBdXRoZW50aWNhdGlvbiBSZXF1ZXN0CkJvYiAtLT4gQWxpY2U6IEF1dGhlbnRpY2F0aW9uIFJlc3BvbnNlCgpBbGljZSAtPiBCb2I6IEFub3RoZXIgYXV0aGVudGljYXRpb24gUmVxdWVzdApBbGljZSA8LS0gQm9iOiBhbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -432,7 +464,6 @@
         <entry>%s</entry>
       </history-search>
       <history-cmd>
-        <entry>158</entry>
         <entry>44</entry>
         <entry>181</entry>
         <entry>783</entry>
@@ -449,8 +480,9 @@
         <entry>Wqa</entry>
         <entry>wqa</entry>
         <entry>31</entry>
-        <entry>Wa</entry>
         <entry>w</entry>
+        <entry>Wa</entry>
+        <entry>wwa</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
