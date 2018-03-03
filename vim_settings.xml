@@ -199,10 +199,10 @@
         <mark key="." line="1454" column="69" />
         <mark key="^" line="1454" column="69" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/lab/src/oanda_event_check.py" timestamp="1520032687788">
-        <mark key="'" line="23" column="14" />
-        <mark key="[" line="62" column="61" />
-        <mark key="]" line="62" column="61" />
+      <file name="$USER_HOME$/work/pipmonger/lab/src/oanda_event_check.py" timestamp="1520033858358">
+        <mark key="'" line="38" column="19" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="43" />
         <mark key="." line="62" column="61" />
         <mark key="^" line="62" column="61" />
       </file>
@@ -234,8 +234,11 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/lab/src/fake_oanda_reader.py" timestamp="1520032808787">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/pipmonger/lab/src/fake_oanda_reader.py" timestamp="1520035170435">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" timestamp="1520031549384">
         <mark key="'" line="801" column="0" />
@@ -290,7 +293,8 @@
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520032827252">
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" timestamp="1520034723455" />
+      <file name="/Dummy.txt" timestamp="1520034788671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
@@ -392,7 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="154" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="153" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
       <jump line="127" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
@@ -492,13 +495,14 @@
       <jump line="111" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
       <jump line="8" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
       <jump line="801" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
+      <jump line="38" column="19" filename="$USER_HOME$/work/pipmonger/lab/src/oanda_event_check.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRpbWUgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMSkK</text>
       </register>
       <register name="-" type="4">
         <text>txt</text>
@@ -507,37 +511,37 @@
         <text>STOP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR4dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmMgZm9yIGxpbmUgaW4gcmVzcC5jb250ZW50Ogo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRpbWUgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR4dCkK</text>
+        <text encoding="base64">ICAgIGF3YWl0IGZvciAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdhd2FpdGVkJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnVGltZW91dCBlcnJvci4uLicpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxpbmUpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpdGggb3BlbigndHJhbnNhY3Rpb24tZXZlbnRzLmpzb24ubGlzdCcsICdhJykgYXMgZmg6CiAgICAgICAgICAgICAgICAgICAgZmgud3JpdGUobGluZS5kZWNvZGUoJ3V0Zi04Jykuc3RyaXAoKSkKICAgICAgICAgICAgICAgICAgICBmaC53cml0ZSgnXG4nKQo=</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2V2ZW50cy1maXh0dXJlcy5qc29uLmxpc3QnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgpkZWYgd3JpdGVfZGF0YShkYXRhKToKICAgIHdpdGggb3BlbigndHJhbnNhY3Rpb24tZXZlbnRzLmpzb24ubGlzdCcsICdhJykgYXMgZmg6CiAgICAgICAgZmgud3JpdGUoanNvbi5kdW1wcyhkYXRhKSkKICAgICAgICBmaC53cml0ZSgnXG4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGRhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
