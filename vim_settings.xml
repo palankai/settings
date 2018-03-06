@@ -144,12 +144,6 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="38" column="8" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" timestamp="1518605855880">
-        <mark key="[" line="168" column="13" />
-        <mark key="]" line="168" column="37" />
-        <mark key="." line="783" column="46" />
-        <mark key="^" line="782" column="16" />
-      </file>
       <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_creation.py" timestamp="1520248898095">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="31" />
@@ -181,13 +175,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/handlers.py" timestamp="1518692127005">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1454" column="65" />
-        <mark key="]" line="1454" column="69" />
-        <mark key="." line="1454" column="69" />
-        <mark key="^" line="1454" column="69" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/lab/src/oanda_event_check.py" timestamp="1520032687788">
         <mark key="'" line="23" column="14" />
@@ -339,13 +326,6 @@
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
-      </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/adapters/orm/mappings.py" timestamp="1518606869855">
-        <mark key="'" line="212" column="19" />
-        <mark key="[" line="209" column="25" />
-        <mark key="]" line="210" column="7" />
-        <mark key="." line="210" column="7" />
-        <mark key="^" line="210" column="7" />
       </file>
       <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" timestamp="1520269757483">
         <mark key="'" line="2117" column="20" />
