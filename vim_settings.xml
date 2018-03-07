@@ -60,11 +60,11 @@
         <mark key="." line="78" column="3" />
         <mark key="^" line="78" column="3" />
       </file>
-      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/Dockerfile" timestamp="1520366219973">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="33" />
-        <mark key="^" line="6" column="33" />
-        <mark key="." line="6" column="33" />
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/Dockerfile" timestamp="1520367452397">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="12" column="8" />
+        <mark key="^" line="12" column="8" />
+        <mark key="." line="12" column="8" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" timestamp="1519559208773">
         <mark key="'" line="129" column="0" />
@@ -238,11 +238,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" timestamp="1520364337982">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-        <mark key="^" line="29" column="25" />
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" timestamp="1520367467240">
+        <mark key="[" line="57" column="36" />
+        <mark key="]" line="57" column="33" />
+        <mark key="." line="57" column="33" />
+        <mark key="^" line="57" column="33" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/lab/src/oanda_event_check.py" timestamp="1520032687788">
         <mark key="'" line="23" column="14" />
@@ -351,7 +351,7 @@
         <mark key="." line="87" column="8" />
         <mark key="^" line="87" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520366523694">
+      <file name="/Dummy.txt" timestamp="1520366658990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
@@ -573,43 +573,43 @@
         <text encoding="base64">ICAgIHRpbWUgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyOiAwOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGpwZWctZGV2IHpsaWItZGV2IGZyZWV0eXBlLWRldiBvcGVuanBlZy1kZXY=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rmxhc2s9PTAuMTIuMgo=</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC0tbm8tY2FjaGUtZGlyIC1yIHJlcXVpcmVtZW50cy50eHQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RWRlbHdlaXNzLFNldCBvZiAyIERpbmluZyBDaGFpcnMswqMxNDksLFdhbG51dCBhbmQgQmxhY2ssQ0hBRURFMDEwQkxBLVVLLGh0dHBzOi8vd3d3Lm1hZGUuY29tL3NldC1vZi0yLWVkZWx3ZWlzcy1kaW5pbmctY2hhaXJzLXdhbG51dC1hbmQtYmxhY2ssCg==</text>
+        <text encoding="base64">Rmxhc2s9PTAuMTIuMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxwPjwvcD4K</text>
+        <text encoding="base64">RWRlbHdlaXNzLFNldCBvZiAyIERpbmluZyBDaGFpcnMswqMxNDksLFdhbG51dCBhbmQgQmxhY2ssQ0hBRURFMDEwQkxBLVVLLGh0dHBzOi8vd3d3Lm1hZGUuY29tL3NldC1vZi0yLWVkZWx3ZWlzcy1kaW5pbmctY2hhaXJzLXdhbG51dC1hbmQtYmxhY2ssCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgICAgICBwYWRkaW5nOiAwOwogICAgICAgICAgICBib3JkZXI6IDA7Cg==</text>
+        <text encoding="base64">ICAgIDxwPjwvcD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgICAgICBwYWRkaW5nOiAwOwogICAgICAgICAgICBib3JkZXI6IDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyOiAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgICAgICBwYWRkaW5nOiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyOiAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgICAgICBwYWRkaW5nOiAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogZmxleDsKICAgICAgICAgICAgaGVpZ2h0OiA1MDBweDsKICAgICAgICAgICAgZmxleC13cmFwOiBub3dyYXA7CiAgICAgICAgICAgIGFsaWduLWNvbnRlbnQ6IGNlbnRlcjsKICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogRG9kZ2VyQmx1ZTsKICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgICAgICBwYWRkaW5nOiAwOwogICAgICAgICAgICBib3JkZXI6IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
