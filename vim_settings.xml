@@ -8,11 +8,6 @@
       <file name="/start_script.py" timestamp="1518623412136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/commands.py" timestamp="1518694127144">
-        <mark key="[" line="348" column="0" />
-        <mark key="]" line="348" column="37" />
-        <mark key="." line="348" column="0" />
-      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/pledge_tests.http" timestamp="1519646068908">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="8" />
@@ -65,6 +60,12 @@
         <mark key="." line="78" column="3" />
         <mark key="^" line="78" column="3" />
       </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/Dockerfile" timestamp="1520367452397">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="12" column="8" />
+        <mark key="^" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+      </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/tests/test_entry.py" timestamp="1519559208773">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="85" column="6" />
@@ -84,21 +85,54 @@
         <mark key="^" line="24" column="33" />
         <mark key="." line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/mark_products_dispatch_from_dooley_rumble.py" timestamp="1518782452487">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="53" />
-      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/cancellation_request.json" timestamp="1519665557790">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
         <mark key="^" line="3" column="26" />
       </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/sheet.py" timestamp="1520364350024">
+        <mark key="'" line="189" column="8" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/testing/event_generator.py" timestamp="1519475355156">
         <mark key="[" line="26" column="66" />
         <mark key="]" line="26" column="64" />
         <mark key="." line="26" column="64" />
         <mark key="^" line="26" column="64" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/setup.py" timestamp="1520366329200">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="45" />
+        <mark key="^" line="4" column="45" />
+        <mark key="." line="4" column="45" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/test_dispatches.py" timestamp="1520268883532">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/calibration.py" timestamp="1520363544203">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="58" column="27" />
+        <mark key="." line="57" column="23" />
+        <mark key="^" line="57" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/setup.py" timestamp="1520366292325">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/data.py" timestamp="1520360472315">
+        <mark key="'" line="39" column="5" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/main/start.py" timestamp="1519910525967">
         <mark key="[" line="83" column="11" />
@@ -113,6 +147,19 @@
       </file>
       <file name="/Dummy.regexp" timestamp="1519233773990">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/helper_sale_order_events.py" timestamp="1520271132648">
+        <mark key="'" line="626" column="0" />
+        <mark key="[" line="83" column="20" />
+        <mark key="]" line="83" column="23" />
+        <mark key="^" line="83" column="23" />
+        <mark key="." line="83" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/upload.html" timestamp="1520362751852">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="36" column="27" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/made_batches_shipment.py" timestamp="1519125623985">
         <mark key="[" line="593" column="48" />
@@ -146,11 +193,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="38" column="8" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/model/order.py" timestamp="1518605855880">
-        <mark key="[" line="168" column="13" />
-        <mark key="]" line="168" column="37" />
-        <mark key="." line="783" column="46" />
-        <mark key="^" line="782" column="16" />
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/templates/upload.html" timestamp="1520365859775">
+        <mark key="'" line="33" column="10" />
+        <mark key="[" line="83" column="16" />
+        <mark key="]" line="83" column="157" />
+        <mark key="." line="83" column="157" />
+        <mark key="^" line="83" column="157" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/sequence.puml" timestamp="1519470049828">
         <mark key="[" line="0" column="9" />
@@ -158,16 +206,14 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/xmlrpc/xmlrpcerp.py" timestamp="1518795559221">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="17" column="46" />
-      </file>
       <file name="/PostgreSQL Fragment (generate_migration_commands.py:4365).sql" timestamp="1519150240317">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/tests/test_allocate_order_item_handler.py" timestamp="1518534599822">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="47" />
+      <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/test_order_messages_stream.py" timestamp="1520264470571">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="59" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/primitives.py" timestamp="1519560874476">
         <mark key="[" line="0" column="0" />
@@ -192,22 +238,32 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/services/handlers.py" timestamp="1518692127005">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1454" column="65" />
-        <mark key="]" line="1454" column="69" />
-        <mark key="." line="1454" column="69" />
-        <mark key="^" line="1454" column="69" />
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" timestamp="1520367467240">
+        <mark key="[" line="57" column="36" />
+        <mark key="]" line="57" column="33" />
+        <mark key="." line="57" column="33" />
+        <mark key="^" line="57" column="33" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/lab/src/oanda_event_check.py" timestamp="1520033858358">
-        <mark key="'" line="38" column="19" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="43" />
+      <file name="$USER_HOME$/work/pipmonger/lab/src/oanda_event_check.py" timestamp="1520032687788">
+        <mark key="'" line="23" column="14" />
+        <mark key="[" line="62" column="61" />
+        <mark key="]" line="62" column="61" />
         <mark key="." line="62" column="61" />
         <mark key="^" line="62" column="61" />
       </file>
+      <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/pim.py" timestamp="1520261400250">
+        <mark key="'" line="103" column="8" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="55" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="vim_settings.xml" timestamp="1520024078220">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/requirements.txt" timestamp="1520366405110">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/trading/domain/models.py" timestamp="1519560966389">
         <mark key="[" line="4" column="50" />
@@ -215,7 +271,7 @@
         <mark key="^" line="4" column="60" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1520032338964">
+      <file name="/Python Console" timestamp="1520275846485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1520028582141">
@@ -234,11 +290,14 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/lab/src/fake_oanda_reader.py" timestamp="1520035170435">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
+      <file name="$USER_HOME$/work/pipmonger/lab/src/fake_oanda_reader.py" timestamp="1520032808787">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/eventstore_helper.py" timestamp="1520271591086">
+        <mark key="[" line="145" column="18" />
+        <mark key="]" line="145" column="18" />
+        <mark key="^" line="145" column="18" />
+        <mark key="." line="145" column="18" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" timestamp="1520031549384">
         <mark key="'" line="801" column="0" />
@@ -266,6 +325,11 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/acceptance/test_order_dispatched.py" timestamp="1520433765479">
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/generate_migration_commands.py" timestamp="1519233023689">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="121" column="0" />
@@ -273,9 +337,12 @@
         <mark key="." line="138" column="4" />
         <mark key="^" line="137" column="5" />
       </file>
-      <file name="$USER_HOME$/work/made.com/procurement/api/api/app.py" timestamp="1519744064086">
-        <mark key="[" line="509" column="12" />
-        <mark key="]" line="509" column="52" />
+      <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" timestamp="1520419073160">
+        <mark key="'" line="43" column="14" />
+        <mark key="[" line="102" column="8" />
+        <mark key="]" line="102" column="8" />
+        <mark key="." line="102" column="8" />
+        <mark key="^" line="102" column="8" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/requirements.txt" timestamp="1519902899592">
         <mark key="[" line="5" column="8" />
@@ -289,12 +356,7 @@
         <mark key="." line="87" column="8" />
         <mark key="^" line="87" column="8" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/xmlrpc/xmlrpccall.py" timestamp="1518796429963">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="60" />
-      </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" timestamp="1520034723455" />
-      <file name="/Dummy.txt" timestamp="1520034788671">
+      <file name="/Dummy.txt" timestamp="1520367628574">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
@@ -302,6 +364,12 @@
         <mark key="]" line="5" column="25" />
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrlablr/data.py" timestamp="1520359957634">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_orders.sh" timestamp="1518106005451">
         <mark key="'" line="40" column="47" />
@@ -316,10 +384,10 @@
         <mark key="^" line="7" column="73" />
         <mark key="." line="7" column="73" />
       </file>
-      <file name="$USER_HOME$/work/made.com/qrcoder/qrlablr/__main__.py" timestamp="1518175155897">
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrlablr/__main__.py" timestamp="1520363452224">
         <mark key="'" line="49" column="4" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="34" column="5" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
@@ -346,12 +414,10 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/adapters/orm/mappings.py" timestamp="1518606869855">
-        <mark key="'" line="212" column="19" />
-        <mark key="[" line="209" column="25" />
-        <mark key="]" line="210" column="7" />
-        <mark key="." line="210" column="7" />
-        <mark key="^" line="210" column="7" />
+      <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" timestamp="1520269757483">
+        <mark key="'" line="2117" column="20" />
+        <mark key="[" line="1242" column="13" />
+        <mark key="]" line="1242" column="34" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517940948941">
         <mark key="'" line="160" column="29" />
@@ -359,6 +425,12 @@
         <mark key="]" line="158" column="0" />
         <mark key="." line="158" column="0" />
         <mark key="^" line="203" column="32" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/helper_purchase_order_events.py" timestamp="1520268609570">
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="53" />
+        <mark key="^" line="63" column="39" />
+        <mark key="." line="63" column="39" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/classes.puml" timestamp="1519470432248">
         <mark key="[" line="17" column="51" />
@@ -379,10 +451,6 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/work/made.com/procurement/procurement/src/procurement/domain/commands.py" timestamp="1519744087493">
-        <mark key="[" line="539" column="13" />
-        <mark key="]" line="539" column="38" />
-      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/export_orders_items.py" timestamp="1518011566337">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="6" column="21" />
@@ -394,87 +462,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" timestamp="1520261753080">
+        <mark key="'" line="222" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="99" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="63" column="19" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="150" column="10" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="103" column="4" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="251" column="34" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="246" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="241" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="234" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="148" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="182" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="233" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="265" column="25" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="209" column="41" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="132" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="51" column="16" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="295" column="16" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="128" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="157" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="205" column="44" filename="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" />
-      <jump line="199" column="34" filename="$USER_HOME$/work/made.com/warehouse/base/core/warehouse/steps/filters.py" />
-      <jump line="4" column="21" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/classes.puml" />
-      <jump line="31" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/classes.puml" />
-      <jump line="84" column="4" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/classes.puml" />
-      <jump line="90" column="3" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/classes.puml" />
-      <jump line="3" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/classes.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/classes.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/pledge_tests.http" />
-      <jump line="120" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_1.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_1.json" />
-      <jump line="9" column="3" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_1.json" />
-      <jump line="121" column="1" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_1.json" />
-      <jump line="12" column="1" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_1.json" />
-      <jump line="122" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_1.json" />
-      <jump line="107" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_1.json" />
-      <jump line="26" column="15" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_1.json" />
-      <jump line="83" column="19" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_1.json" />
-      <jump line="31" column="28" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_1.json" />
-      <jump line="128" column="28" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_4.json" />
-      <jump line="45" column="7" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_1.json" />
-      <jump line="1" column="15" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_4.json" />
-      <jump line="81" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" />
-      <jump line="146" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" />
-      <jump line="151" column="18" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" />
-      <jump line="90" column="14" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" />
-      <jump line="118" column="19" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" />
-      <jump line="134" column="19" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" />
-      <jump line="102" column="14" filename="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" />
-      <jump line="58" column="20" filename="$USER_HOME$/work/pipmonger/lab/src/oanda_event_check.py" />
-      <jump line="22" column="14" filename="$USER_HOME$/work/pipmonger/lab/src/oanda_event_check.py" />
-      <jump line="344639" column="3" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="33" column="11" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="52" column="11" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="74" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="103" column="11" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="112" column="78" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="144" column="11" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="221" column="11" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="261" column="348" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
       <jump line="285" column="3" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
       <jump line="344640" column="3" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
       <jump line="49999" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
@@ -495,62 +489,141 @@
       <jump line="111" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
       <jump line="8" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
       <jump line="801" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="38" column="19" filename="$USER_HOME$/work/pipmonger/lab/src/oanda_event_check.py" />
+      <jump line="133" column="31" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="10" column="43" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="136" column="12" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/pim.py" />
+      <jump line="104" column="8" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/pim.py" />
+      <jump line="21" column="35" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="174" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="178" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="182" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="197" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="217" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="222" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="31" column="35" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="62" column="15" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="237" column="6" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="625" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helper_sale_order_events.py" />
+      <jump line="564" column="6" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="269" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="1097" column="34" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="1179" column="6" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="1182" column="14" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="2117" column="20" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_dispatches.py" />
+      <jump line="92" column="20" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="46" column="34" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="113" column="65" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="42" column="14" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/calibration.py" />
+      <jump line="53" column="54" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/calibration.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/calibration.py" />
+      <jump line="19" column="3" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" />
+      <jump line="39" column="5" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/data.py" />
+      <jump line="25" column="17" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/sheet.py" />
+      <jump line="172" column="8" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/sheet.py" />
+      <jump line="79" column="78" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/templates/upload.html" />
+      <jump line="27" column="24" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/templates/upload.html" />
+      <jump line="12" column="0" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/templates/upload.html" />
+      <jump line="33" column="10" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/templates/upload.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMSkK</text>
+        <text encoding="base64">ICAgIHRpbWUgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>txt</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>STOP</text>
+        <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXN5bmMgZm9yIGxpbmUgaW4gcmVzcC5jb250ZW50Ogo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGpwZWctZGV2IHpsaWItZGV2IGZyZWV0eXBlLWRldiBvcGVuanBlZy1kZXY=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMSkK</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC0tbm8tY2FjaGUtZGlyIC1yIHJlcXVpcmVtZW50cy50eHQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGZvciAK</text>
+        <text encoding="base64">Rmxhc2s9PTAuMTIuMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdhd2FpdGVkJykK</text>
+        <text encoding="base64">RWRlbHdlaXNzLFNldCBvZiAyIERpbmluZyBDaGFpcnMswqMxNDksLFdhbG51dCBhbmQgQmxhY2ssQ0hBRURFMDEwQkxBLVVLLGh0dHBzOi8vd3d3Lm1hZGUuY29tL3NldC1vZi0yLWVkZWx3ZWlzcy1kaW5pbmctY2hhaXJzLXdhbG51dC1hbmQtYmxhY2ssCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIDxwPjwvcD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgICAgICBwYWRkaW5nOiAwOwogICAgICAgICAgICBib3JkZXI6IDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2V2ZW50cy1maXh0dXJlcy5qc29uLmxpc3QnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyOiAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgICAgICBwYWRkaW5nOiAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>STOP</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>STOP</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>warehouse_code</last-replace>
       <last-substitute>sol.warehouse_id.code</last-substitute>
       <last-dir>1</last-dir>
@@ -558,13 +631,9 @@
     </search>
     <history>
       <history-search>
-        <entry>session</entry>
-        <entry encoding="base64">XDxzZWFyY2hfYWxsX2NvaXNfaW5fcHJvZ3Jlc3NcPg==</entry>
-        <entry encoding="base64">XDxlcnBzaGVsbFw+</entry>
         <entry>xmlrpc</entry>
         <entry encoding="base64">XDxzZW5kXD4=</entry>
         <entry encoding="base64">XDxycGNjYWxsXD4=</entry>
-        <entry>print</entry>
         <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry>DEBUG</entry>
         <entry>Reader</entry>
@@ -578,18 +647,17 @@
         <entry>iForce</entry>
         <entry>%s</entry>
         <entry>STOP</entry>
+        <entry>get_any_supplier_ref</entry>
+        <entry>BatchHelper</entry>
+        <entry>SaleOrder</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>783</entry>
-        <entry>ls</entry>
-        <entry>register</entry>
         <entry>registers</entry>
         <entry>93</entry>
         <entry>52</entry>
         <entry>700</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
-        <entry>W</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>a</entry>
         <entry>Wqa</entry>
         <entry>wqa</entry>
@@ -597,7 +665,12 @@
         <entry>wwa</entry>
         <entry>5000</entry>
         <entry>50000</entry>
+        <entry>223</entry>
+        <entry>113</entry>
+        <entry>146</entry>
+        <entry>W</entry>
         <entry>Wa</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
