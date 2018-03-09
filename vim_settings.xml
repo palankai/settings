@@ -39,7 +39,7 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1519230662155">
+      <file name="/a.dummy" timestamp="1520608630425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" timestamp="1519665550384">
@@ -354,16 +354,23 @@
         <mark key="." line="102" column="8" />
         <mark key="^" line="102" column="8" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/context.py" timestamp="1520607502324">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="10" />
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/context.py" timestamp="1520608623161">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/requirements.txt" timestamp="1519902899592">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="9" />
         <mark key="." line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" timestamp="1520611807063">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="43" column="50" />
+        <mark key="]" line="43" column="50" />
+        <mark key="." line="43" column="50" />
+        <mark key="^" line="43" column="50" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_order_items.sh" timestamp="1518108072853">
         <mark key="'" line="43" column="10" />
@@ -373,7 +380,7 @@
         <mark key="^" line="87" column="8" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" timestamp="1520538866506" />
-      <file name="/Dummy.txt" timestamp="1520606857379">
+      <file name="/Dummy.txt" timestamp="1520611876814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
@@ -474,24 +481,15 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" timestamp="1520607452553">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="16" />
-        <mark key="." line="25" column="16" />
-        <mark key="^" line="25" column="16" />
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" timestamp="1520611524040">
+        <mark key="'" line="24" column="51" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="24" />
+        <mark key="^" line="41" column="24" />
+        <mark key="." line="41" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="3" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="344640" column="3" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="49999" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="60" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="334714" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="334315" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="334314" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="344241" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="386" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="545" column="3" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
       <jump line="779" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
       <jump line="10" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
       <jump line="785" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
@@ -582,6 +580,16 @@
       <jump line="27" column="24" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/templates/upload.html" />
       <jump line="12" column="0" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/templates/upload.html" />
       <jump line="33" column="10" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/templates/upload.html" />
+      <jump line="23" column="51" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" />
+      <jump line="27" column="32" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="15" column="13" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="112" column="37" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="114" column="12" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="118" column="55" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="3" column="13" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="37" column="36" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -591,43 +599,43 @@
         <text encoding="base64">ICAgIHRpbWUgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>str__</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>OANDA_USERNAME</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXdhaXQgc2VsZi5fc2Vzc2lvbi5nZXQoCiAgICAgICAgICAgICcvYWNjb3VudHMve30vc3VtbWFyeScuZm9ybWF0KHNlbGYuX2FjY291bnRfaWQpLCBrZXk9J2FjY291bnQnCiAgICAgICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5hbWVzcGFjZSA9IGFyZ3BhcnNlLk5hbWVzcGFjZSgKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2U9cmVzcG9uc2UpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcGlfaG9zdD1lbnYuZ2V0KCdPQU5EQV9BUElfSE9TVE5BTUUnKSwKICAgICAgICBzdHJlYW1pbl9ob3N0PWVudi5nZXQoJ09BTkRBX1NUUkVBTUlOR19IT1NUTkFNRScpLAogICAgICAgIHRva2VuPWVudi5nZXQoJ09BTkRBX1RPS0VOJyksCiAgICAgICAgYWNjb3VudF9pZD1lbnYuZ2V0KCdPQU5EQV9BQ0NPVU5UX0lEJyksCiAgICAgICAgdXNlcm5hbWU9ZW52LmdldCgnT0FOREFfVVNFUk5BTUUnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aD1wYXRoLAogICAgICAgICAgICBwYXJhbXM9cGFyYW1zLAogICAgICAgICAgICBoZWFkZXJzPWhlYWRlcnMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpkZWYgZ2V0X2FyZ3MoZW52LCBwcm9nLCBhcmd2KToK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5hbWVzcGFjZSA9IGFyZ3BhcnNlLk5hbWVzcGFjZSgKICAgICAgICBhcGlfaG9zdD1lbnYuZ2V0KCdPQU5EQV9BUElfSE9TVE5BTUUnKSwKICAgICAgICBzdHJlYW1pbl9ob3N0PWVudi5nZXQoJ09BTkRBX1NUUkVBTUlOR19IT1NUTkFNRScpLAogICAgICAgIHRva2VuPWVudi5nZXQoJ09BTkRBX1RPS0VOJyksCiAgICAgICAgYWNjb3VudF9pZD1lbnYuZ2V0KCdPQU5EQV9BQ0NPVU5UX0lEJyksCiAgICAgICAgdXNlcm5hbWU9ZW52LmdldCgnT0FOREFfVVNFUk5BTUUnKSwKICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN0eCA9IGNvbnRleHQuQ29udGV4dCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5hbWVzcGFjZSA9IGFyZ3BhcnNlLk5hbWVzcGFjZSgKICAgICAgICBhcGlfaG9zdD1lbnYuZ2V0KCdPQU5EQV9BUElfSE9TVE5BTUUnKSwKICAgICAgICBzdHJlYW1pbl9ob3N0PWVudi5nZXQoJ09BTkRBX1NUUkVBTUlOR19IT1NUTkFNRScpLAogICAgICAgIHRva2VuPWVudi5nZXQoJ09BTkRBX1RPS0VOJyksCiAgICAgICAgYWNjb3VudF9pZD1lbnYuZ2V0KCdPQU5EQV9BQ0NPVU5UX0lEJyksCiAgICAgICAgdXNlcm5hbWU9ZW52LmdldCgnT0FOREFfVVNFUk5BTUUnKSwKICAgICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
