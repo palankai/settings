@@ -239,6 +239,10 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/work/pipmonger/core/developer.env" timestamp="1520607069918">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="13" />
+      </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/classes.puml" timestamp="1519468794996">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -349,6 +353,12 @@
         <mark key="]" line="102" column="8" />
         <mark key="." line="102" column="8" />
         <mark key="^" line="102" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/context.py" timestamp="1520607502324">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/requirements.txt" timestamp="1519902899592">
         <mark key="[" line="5" column="8" />
@@ -464,11 +474,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" timestamp="1520606057837">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="20" column="17" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" timestamp="1520607452553">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -581,46 +591,46 @@
         <text encoding="base64">ICAgIHRpbWUgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>str__</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGpwZWctZGV2IHpsaWItZGV2IGZyZWV0eXBlLWRldiBvcGVuanBlZy1kZXY=</text>
+        <text>OANDA_USERNAME</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgpkZWYgZ2V0X3BhcnNlcihwcm9nKToKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKHByb2c9cHJvZykKICAgIHJldHVybiBwYXJzZXIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIG5hbWVzcGFjZSA9IGFyZ3BhcnNlLk5hbWVzcGFjZSgKICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByb2cpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVudikK</text>
+        <text encoding="base64">ICAgICAgICBhcGlfaG9zdD1lbnYuZ2V0KCdPQU5EQV9BUElfSE9TVE5BTUUnKSwKICAgICAgICBzdHJlYW1pbl9ob3N0PWVudi5nZXQoJ09BTkRBX1NUUkVBTUlOR19IT1NUTkFNRScpLAogICAgICAgIHRva2VuPWVudi5nZXQoJ09BTkRBX1RPS0VOJyksCiAgICAgICAgYWNjb3VudF9pZD1lbnYuZ2V0KCdPQU5EQV9BQ0NPVU5UX0lEJyksCiAgICAgICAgdXNlcm5hbWU9ZW52LmdldCgnT0FOREFfVVNFUk5BTUUnKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcnNlciA9IGdldF9wYXJzZXIocHJvZykKICAgIHBhcnNlci5wYXJzZV9hcmdzKGFyZ3YpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CgpkZWYgZ2V0X2FyZ3MoZW52LCBwcm9nLCBhcmd2KToK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5hbWVzcGFjZSA9IGFyZ3BhcnNlLk5hbWVzcGFjZSgKICAgICAgICBhcGlfaG9zdD1lbnYuZ2V0KCdPQU5EQV9BUElfSE9TVE5BTUUnKSwKICAgICAgICBzdHJlYW1pbl9ob3N0PWVudi5nZXQoJ09BTkRBX1NUUkVBTUlOR19IT1NUTkFNRScpLAogICAgICAgIHRva2VuPWVudi5nZXQoJ09BTkRBX1RPS0VOJyksCiAgICAgICAgYWNjb3VudF9pZD1lbnYuZ2V0KCdPQU5EQV9BQ0NPVU5UX0lEJyksCiAgICAgICAgdXNlcm5hbWU9ZW52LmdldCgnT0FOREFfVVNFUk5BTUUnKSwKICAgICkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGN0eCA9IGNvbnRleHQuQ29udGV4dCgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC0tbm8tY2FjaGUtZGlyIC1yIHJlcXVpcmVtZW50cy50eHQK</text>
+        <text encoding="base64">ICAgIG5hbWVzcGFjZSA9IGFyZ3BhcnNlLk5hbWVzcGFjZSgKICAgICAgICBhcGlfaG9zdD1lbnYuZ2V0KCdPQU5EQV9BUElfSE9TVE5BTUUnKSwKICAgICAgICBzdHJlYW1pbl9ob3N0PWVudi5nZXQoJ09BTkRBX1NUUkVBTUlOR19IT1NUTkFNRScpLAogICAgICAgIHRva2VuPWVudi5nZXQoJ09BTkRBX1RPS0VOJyksCiAgICAgICAgYWNjb3VudF9pZD1lbnYuZ2V0KCdPQU5EQV9BQ0NPVU5UX0lEJyksCiAgICAgICAgdXNlcm5hbWU9ZW52LmdldCgnT0FOREFfVVNFUk5BTUUnKSwKICAgICkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -674,8 +684,8 @@
         <entry>W</entry>
         <entry>Wa</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
