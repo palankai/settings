@@ -42,11 +42,6 @@
       <file name="/a.dummy" timestamp="1520608630425">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" timestamp="1519665550384">
-        <mark key="[" line="91" column="14" />
-        <mark key="]" line="91" column="28" />
-        <mark key="." line="1" column="26" />
-      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core.env" timestamp="1518797570173">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="60" />
@@ -116,16 +111,17 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/playbooks/roles/qrcoder-nomad/defaults/main.yml" timestamp="1520880262313">
+        <mark key="[" line="3" column="56" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+        <mark key="." line="3" column="45" />
+      </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/main/start.py" timestamp="1519910525967">
         <mark key="[" line="83" column="11" />
         <mark key="]" line="83" column="14" />
         <mark key="." line="83" column="14" />
         <mark key="^" line="83" column="14" />
-      </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_6.json" timestamp="1519662672528">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="157" column="1" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.regexp" timestamp="1519233773990">
         <mark key="[" line="0" column="0" />
@@ -197,11 +193,6 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/primitives.py" timestamp="1519560874476">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/pipmonger/core/.developer.env" timestamp="1520606331078">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="14" />
@@ -225,10 +216,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/classes.puml" timestamp="1519468794996">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/work/made.com/qrcoder/playbooks/roles/qrcoder-nomad/templates/qrcoder.nomad.j2" timestamp="1520881021948">
+        <mark key="'" line="46" column="25" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" timestamp="1520879300943">
         <mark key="'" line="30" column="11" />
@@ -246,11 +239,6 @@
       </file>
       <file name="vim_settings.xml" timestamp="1520024078220">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/requirements.txt" timestamp="1520366405110">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/trading/domain/models.py" timestamp="1519560966389">
         <mark key="[" line="4" column="50" />
@@ -350,11 +338,6 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/requirements.txt" timestamp="1519902899592">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-      </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" timestamp="1520611807063">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="43" column="50" />
@@ -362,12 +345,24 @@
         <mark key="." line="43" column="50" />
         <mark key="^" line="43" column="50" />
       </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/playbooks/qrcoder.yml" timestamp="1520880416619">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_order_items.sh" timestamp="1518108072853">
         <mark key="'" line="43" column="10" />
         <mark key="[" line="87" column="12" />
         <mark key="]" line="87" column="8" />
         <mark key="." line="87" column="8" />
         <mark key="^" line="87" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/playbooks/roles/qrcoder-nomad/tasks/main.yml" timestamp="1520880311863">
+        <mark key="[" line="40" column="40" />
+        <mark key="]" line="40" column="34" />
+        <mark key="." line="40" column="34" />
+        <mark key="^" line="40" column="34" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" timestamp="1520538866506" />
       <file name="/Dummy.txt" timestamp="1520851905046">
@@ -385,12 +380,12 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/qrcoder/Jenkinsfile" timestamp="1520879930474">
+      <file name="$USER_HOME$/work/made.com/qrcoder/Jenkinsfile" timestamp="1520880526862">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="47" column="27" />
-        <mark key="^" line="47" column="27" />
-        <mark key="." line="47" column="27" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_orders.sh" timestamp="1518106005451">
         <mark key="'" line="40" column="47" />
@@ -417,6 +412,13 @@
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="7" />
         <mark key="^" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/_local/qrcoder.hcl" timestamp="1520881127839">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="49" column="2" />
+        <mark key="." line="42" column="19" />
+        <mark key="^" line="42" column="19" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" timestamp="1519464086651">
         <mark key="'" line="0" column="0" />
@@ -473,11 +475,6 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/states.puml" timestamp="1519470232146">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" timestamp="1520611524040">
         <mark key="'" line="24" column="51" />
         <mark key="[" line="41" column="8" />
@@ -487,8 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
-      <jump line="8" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
       <jump line="801" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
       <jump line="133" column="31" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
       <jump line="10" column="43" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
@@ -587,6 +582,8 @@
       <jump line="34" column="11" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" />
       <jump line="43" column="31" filename="$USER_HOME$/work/made.com/qrcoder/Jenkinsfile" />
       <jump line="71" column="0" filename="$USER_HOME$/work/made.com/qrcoder/Jenkinsfile" />
+      <jump line="55" column="25" filename="$USER_HOME$/work/made.com/qrcoder/playbooks/roles/qrcoder-nomad/templates/qrcoder.nomad.j2" />
+      <jump line="21" column="8" filename="$USER_HOME$/work/made.com/qrcoder/_local/qrcoder.hcl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -596,43 +593,43 @@
         <text encoding="base64">ICAgIHRpbWUgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>hacienda</text>
+        <text>cancellation</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggImRvY2tlciBybWkgcXJjb2RlciIK</text>
+        <text encoding="base64">am9iICJxcmNvZGVyIiB7CgogIGRhdGFjZW50ZXJzID0gWyJ0ZXN0Il0KCiAgdHlwZSA9ICJzZXJ2aWNlIgoKICB0YXNrICJxcmNvZGVyIiB7CiAgICAgIGRyaXZlciA9ICJkb2NrZXIiCgogICAgICBjb25maWcgewogICAgICAgIGltYWdlID0gIm1hc3Rlci4wLjYxOWJlY2MiCgogICAgICAgIHBvcnRfbWFwIHsKICAgICAgICAgIGludm9rZSA9IDgwCiAgICAgICAgfQogICAgICAgIGxvZ2dpbmcgewogICAgICAgICAgICB0eXBlID0gInN5c2xvZyIKICAgICAgICAgICAgY29uZmlnIHsKICAgICAgICAgICAgICAgIHN5c2xvZy1hZGRyZXNzID0gInVuaXhncmFtOi8vL3J1bi9zeXN0ZW1kL2pvdXJuYWwvc3lzbG9nIgogICAgICAgICAgICAgICAgdGFnID0gInFyY29kZXIiCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgYXV0aCB7CiAgICAgICAgICB1c2VybmFtZSA9ICJwYWxhbmthaSIKICAgICAgICAgIHBhc3N3b3JkID0gInt7IG5vbWFkX2RvY2tlcl9wYXNzd29yZCB9fSIKICAgICAgICB9CiAgICAgIH0KICAgICAgc2VydmljZSB7CiAgICAgICAgICAgICAgbmFtZSA9ICJxcmNvZGVyLWludm9rZSIKICAgICAgICAgICAgICBwb3J0ID0gImludm9rZSIKICAgICAgICAgICAgICBjaGVjayB7CiAgICAgICAgICAgICAgICBuYW1lICAgICA9ICJhbGl2ZSIKICAgICAgICAgICAgICAgIHBhdGggICAgID0gIi8iCiAgICAgICAgICAgICAgICB0eXBlICAgICA9ICJodHRwIgogICAgICAgICAgICAgICAgaW50ZXJ2YWwgPSAiMzBzIgogICAgICAgICAgICAgICAgdGltZW91dCAgPSAiMnMiCiAgICAgICAgICAgICAgfQogICAgICAgICAgfQoKCiAgICAgIHJlc291cmNlcyB7CiAgICAgICAgY3B1ICAgID0gMTAwCiAgICAgICAgbWVtb3J5ID0gMTI4CiAgICAgICAgbmV0d29yayB7CiAgICAgICAgICBtYml0cyA9IDEKICAgICAgICAgIHBvcnQgImludm9rZSIge30KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggImRvY2tlci1jb21wb3NlIHN0b3AiCiAgICAgICAgICAgIHNoICJkb2NrZXItY29tcG9zZSBkb3duIgogICAgICAgICAgICBzaCAiZG9ja2VyLWNvbXBvc2Ugcm0gLXZmIgogICAgICAgICAgICBzaCAicm0gLXJmIHRlc3QtcmVzdWx0cyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0YWdzID0gWyJmYWJpby1pbnRlcm5hbC1xcmNvZGVyLnt7IHJvdXRlNTNfem9uZSB9fS8iXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggImRvY2tlci1jb21wb3NlIGRvd24iCiAgICAgICAgICAgIHNoICJkb2NrZXItY29tcG9zZSBybSAtYXZmIgogICAgICAgICAgICBzaCAiZG9ja2VyIG5ldHdvcmsgcHJ1bmUgLWYiCg==</text>
+        <text encoding="base64">CiAgICAgIGVudiB7CgogICAgICAgIHslIHJhdyAlfQogICAgICAgIENPTlNVTF9IT1NUID0gIiR7Tk9NQURfSVBfaW52b2tlfSIKICAgICAgICB7JSBlbmRyYXcgJX0KICAgICAgICBDT05TVUxfVE9LRU4gPSAie3sgdG9rZW5zW2Vudl0gfX0iCiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICBzdGFnZSAoInJlYWQgdGVzdCByZXN1bHRzIikgewogICAgICAgICAgICAgICAgc2ggImRvY2tlciBjcCBcJChkb2NrZXItY29tcG9zZSBwcyAtcSBoYWNpZW5kYSk6L3Zhci9ydW4vaGFjaWVuZGEvdGVzdC1yZXN1bHRzLyAuIgogICAgICAgICAgICAgICAganVuaXQgInRlc3QtcmVzdWx0cy8qLnhtbCIKICAgICAgICB9CiAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBFTlYgPSAie3sgZW52IH19Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZSAoInVuaXQgdGVzdCIpIHsKICAgICAgICAgICAgc2ggImRvY2tlciBleGVjIFwkKGRvY2tlci1jb21wb3NlIHBzIC1xIGhhY2llbmRhKSAvb3B0L2hhY2llbmRhL2hhY2llbmRhX3Rlc3RzLnNoIgogICAgICAgIH0KICAgICAgICBzdGFnZSAoImFjY2VwdGFuY2UgdGVzdCIpIHsKICAgICAgICAgICAgc2ggImRvY2tlciBleGVjIFwkKGRvY2tlci1jb21wb3NlIHBzIC1xIGhhY2llbmRhKSAvb3B0L2hhY2llbmRhL2hhY2llbmRhX2FjY2VwdGFuY2VfdGVzdHMuc2giCiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAgIGVudiB7CiAgICAgICAgRU5WID0gInRlc3QiCiAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZSAoInN0YXJ0IikgewogICAgICAgICAgICBzaCAiSEFDSUVOREFfRkVBVFVSRVNfU0NIRURVTEVSPSdGYWxzZScgSEFDSUVOREFfRkVBVFVSRVNfRVZFTlRTVE9SRV9SRUFERVI9J0ZhbHNlJyBkb2NrZXItY29tcG9zZSB1cCAtZCIKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyFncm9vdnkKCm5vZGUgewoKICAgIFRPV0VSX1RFU1RfSUQgPSAxMzAKICAgIGVudi5CVUlMRF9WRVJTSU9OID0gMi4wCgogICAgc3RhZ2UoIkNoZWNrb3V0IikgewogICAgICAgIGNsZWFuV3MoKQogICAgICAgIGNoZWNrb3V0IHNjbQogICAgfQoKICAgIHN0YWdlKCdHZXQgdGFnJykgewoKICAgICAgICBkZWYgc2hvcnRIYXNoID0gc2gocmV0dXJuU3Rkb3V0OiB0cnVlLCBzY3JpcHQ6ICdnaXQgcmV2LXBhcnNlIC0tc2hvcnQgSEVBRCcpLnRyaW0oKQoKICAgICAgICBpZiggZW52LkJSQU5DSF9OQU1FID09ICJtYXN0ZXIiKSB7CiAgICAgICAgICBzaCAiZWNobyAnJHtlbnYuQlVJTERfVkVSU0lPTn0uJHtlbnYuQlVJTERfTlVNQkVSfS4ke3Nob3J0SGFzaH0nID4gLmdpdC9jb21taXQtaWQiCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHNoICJlY2hvICcke2Vudi5CUkFOQ0hfTkFNRS5yZXBsYWNlQWxsKC9cLy8sICcuJyl9LiR7QlVJTERfTlVNQkVSfS4ke3Nob3J0SGFzaH0nID4gLmdpdC9jb21taXQtaWQiCiAgICAgICAgfQoKICAgICAgICBkZWYgY29tbWl0SWQgPSByZWFkRmlsZSgnLmdpdC9jb21taXQtaWQnKS50cmltKCkKCiAgICAgICAgY3VycmVudEJ1aWxkLmRpc3BsYXlOYW1lID0gY29tbWl0SWQKCiAgICAgICAgLy8gY2xlYW51cCBwcmV2aW91cyBidWlsZHMKICAgICAgIHNoICJkb2NrZXItY29tcG9zZSBkb3duIC12IC0tcm1pIGFsbCB8fCB0cnVlIgogICAgfQoKICAgIHRyeSB7CiAgICAgICAgc3RhZ2UgKCJidWlsZCIpIHsKICAgICAgICAgICAgc2ggIkdJVF9DT01NSVQ9JHtjdXJyZW50QnVpbGQuZGlzcGxheU5hbWV9IGRvY2tlciBidWlsZCAtdCB0ZXN0aW5nL3FyY29kZXIgcXJjb2Rlci8iCiAgICAgICAgfQoKICAgICAgICBzdGFnZSAoInB1c2giKSB7CiAgICAgICAgICAgIHNoICJHSVRfQ09NTUlUPSR7Y3VycmVudEJ1aWxkLmRpc3BsYXlOYW1lfSBkb2NrZXIgcHVzaCB0ZXN0aW5nL3FyY29kZXIiCiAgICAgICAgfQoKICAgICAgICBzdGFnZSAoImRlcGxveSIpIHsKICAgICAgICAgICAgaWYoIGVudi5CUkFOQ0hfTkFNRSA9PSAibWFzdGVyIikgewogICAgICAgICAgICAgICAgZWNobyAiRGVwbG95aW5nICR7Y3VycmVudEJ1aWxkLmRpc3BsYXlOYW1lfSB0byB0ZXN0IgogICAgICAgICAgICAgICAgdG93ZXIoVE9XRVJfVEVTVF9JRCwgWwogICAgICAgICAgICAgICAgICAgIGVudjogJ3Rlc3QnLAogICAgICAgICAgICAgICAgICAgIGRvY2tlcl9pbWFnZV90YWc6IGN1cnJlbnRCdWlsZC5kaXNwbGF5TmFtZSwKICAgICAgICAgICAgICAgIF0pCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CiAgICBmaW5hbGx5IHsKICAgICAgICBzdGFnZSAoImNsZWFudXAiKSB7CiAgICAgICAgICAgIHNoICJHSVRfQ09NTUlUPSR7Y3VycmVudEJ1aWxkLmRpc3BsYXlOYW1lfSBkb2NrZXItY29tcG9zZSBkb3duIC12IC0tcm1pIGFsbCB8fCB0cnVlIgogICAgICAgIH0KICAgIH0KfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB7JSByYXcgJX0KICAgICAgICBDT05TVUxfSE9TVCA9ICIke05PTUFEX0lQX2ludm9rZX0iCiAgICAgICAgeyUgZW5kcmF3ICV9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBDT05TVUxfVE9LRU4gPSAie3sgdG9rZW5zW2Vudl0gfX0iCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNzdgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggImRvY2tlci1jb21wb3NlIHN0b3AiCiAgICAgICAgICAgIHNoICJkb2NrZXItY29tcG9zZSBkb3duIgogICAgICAgICAgICBzaCAiZG9ja2VyLWNvbXBvc2Ugcm0gLXZmIgogICAgICAgICAgICBzaCAicm0gLXJmIHRlc3QtcmVzdWx0cyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd2hpdGUuaGlnaGVzdF9jYXJkID09IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggImRvY2tlci1jb21wb3NlIGRvd24iCiAgICAgICAgICAgIHNoICJkb2NrZXItY29tcG9zZSBybSAtYXZmIgogICAgICAgICAgICBzaCAiZG9ja2VyIG5ldHdvcmsgcHJ1bmUgLWYiCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -687,9 +684,9 @@
         <entry>113</entry>
         <entry>146</entry>
         <entry>W</entry>
-        <entry>Wa</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
+        <entry>Wa</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
