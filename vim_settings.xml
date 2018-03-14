@@ -365,7 +365,7 @@
         <mark key="^" line="40" column="34" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" timestamp="1520538866506" />
-      <file name="/Dummy.txt" timestamp="1521035091073">
+      <file name="/Dummy.txt" timestamp="1521036611341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
@@ -632,7 +632,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2ggImRvY2tlci1jb21wb3NlIGRvd24iCiAgICAgICAgICAgIHNoICJkb2NrZXItY29tcG9zZSBybSAtYXZmIgogICAgICAgICAgICBzaCAiZG9ja2VyIG5ldHdvcmsgcHJ1bmUgLWYiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>277</text>
       </register>
     </registers>
     <search>
@@ -668,7 +668,6 @@
         <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>registers</entry>
         <entry>93</entry>
         <entry>52</entry>
         <entry>700</entry>
@@ -688,6 +687,7 @@
         <entry>w</entry>
         <entry>Wa</entry>
         <entry>wa</entry>
+        <entry>277</entry>
       </history-cmd>
       <history-expr />
       <history-input />
