@@ -42,11 +42,6 @@
       <file name="/a.dummy" timestamp="1520608630425">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_5.json" timestamp="1519665550384">
-        <mark key="[" line="91" column="14" />
-        <mark key="]" line="91" column="28" />
-        <mark key="." line="1" column="26" />
-      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core.env" timestamp="1518797570173">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="60" />
@@ -91,12 +86,6 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/sheet.py" timestamp="1520364350024">
-        <mark key="'" line="189" column="8" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/testing/event_generator.py" timestamp="1519475355156">
         <mark key="[" line="26" column="66" />
         <mark key="]" line="26" column="64" />
@@ -108,12 +97,6 @@
         <mark key="]" line="4" column="45" />
         <mark key="^" line="4" column="45" />
         <mark key="." line="4" column="45" />
-      </file>
-      <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/test_dispatches.py" timestamp="1520268883532">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/calibration.py" timestamp="1520363544203">
         <mark key="'" line="2" column="0" />
@@ -128,22 +111,17 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/data.py" timestamp="1520360472315">
-        <mark key="'" line="39" column="5" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/work/made.com/qrcoder/playbooks/roles/qrcoder-nomad/defaults/main.yml" timestamp="1520880262313">
+        <mark key="[" line="3" column="56" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+        <mark key="." line="3" column="45" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/main/start.py" timestamp="1519910525967">
         <mark key="[" line="83" column="11" />
         <mark key="]" line="83" column="14" />
         <mark key="." line="83" column="14" />
         <mark key="^" line="83" column="14" />
-      </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/_local/pledge_tests/order_place_6.json" timestamp="1519662672528">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="157" column="1" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.regexp" timestamp="1519233773990">
         <mark key="[" line="0" column="0" />
@@ -215,11 +193,6 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/primitives.py" timestamp="1519560874476">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/pipmonger/core/.developer.env" timestamp="1520606331078">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="14" />
@@ -243,16 +216,19 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/classes.puml" timestamp="1519468794996">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/work/made.com/qrcoder/playbooks/roles/qrcoder-nomad/templates/qrcoder.nomad.j2" timestamp="1520881021948">
+        <mark key="'" line="46" column="25" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" timestamp="1520367467240">
-        <mark key="[" line="57" column="36" />
-        <mark key="]" line="57" column="33" />
-        <mark key="." line="57" column="33" />
-        <mark key="^" line="57" column="33" />
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" timestamp="1520879300943">
+        <mark key="'" line="30" column="11" />
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="2" column="37" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/lab/src/oanda_event_check.py" timestamp="1520032687788">
         <mark key="'" line="23" column="14" />
@@ -261,19 +237,8 @@
         <mark key="." line="62" column="61" />
         <mark key="^" line="62" column="61" />
       </file>
-      <file name="$USER_HOME$/work/made.com/backoffice-automation/tests/pim.py" timestamp="1520261400250">
-        <mark key="'" line="103" column="8" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="55" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="vim_settings.xml" timestamp="1520024078220">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/requirements.txt" timestamp="1520366405110">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/trading/domain/models.py" timestamp="1519560966389">
         <mark key="[" line="4" column="50" />
@@ -283,6 +248,13 @@
       </file>
       <file name="/Python Console" timestamp="1520275846485">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/studies/poker_hands/poker_hands.py" timestamp="1520853870372">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="97" column="45" />
+        <mark key="]" line="97" column="45" />
+        <mark key="." line="97" column="45" />
+        <mark key="^" line="97" column="45" />
       </file>
       <file name="/fragment.py" timestamp="1520028582141">
         <mark key="[" line="0" column="0" />
@@ -354,23 +326,30 @@
         <mark key="." line="102" column="8" />
         <mark key="^" line="102" column="8" />
       </file>
+      <file name="$USER_HOME$/work/studies/poker_hands/test_poker_hands.py" timestamp="1520853941828">
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="39" column="40" />
+        <mark key="." line="39" column="40" />
+        <mark key="^" line="39" column="40" />
+      </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/context.py" timestamp="1520608623161">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="12" />
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/requirements.txt" timestamp="1519902899592">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" timestamp="1520611807063">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="43" column="50" />
+        <mark key="]" line="43" column="50" />
+        <mark key="." line="43" column="50" />
+        <mark key="^" line="43" column="50" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" timestamp="1520616898366">
-        <mark key="'" line="106" column="35" />
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="407" column="0" />
-        <mark key="." line="407" column="0" />
-        <mark key="^" line="385" column="54" />
+      <file name="$USER_HOME$/work/made.com/qrcoder/playbooks/qrcoder.yml" timestamp="1520880416619">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_order_items.sh" timestamp="1518108072853">
         <mark key="'" line="43" column="10" />
@@ -379,8 +358,14 @@
         <mark key="." line="87" column="8" />
         <mark key="^" line="87" column="8" />
       </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/playbooks/roles/qrcoder-nomad/tasks/main.yml" timestamp="1520880311863">
+        <mark key="[" line="40" column="40" />
+        <mark key="]" line="40" column="34" />
+        <mark key="." line="40" column="34" />
+        <mark key="^" line="40" column="34" />
+      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" timestamp="1520538866506" />
-      <file name="/Dummy.txt" timestamp="1520611876814">
+      <file name="/Dummy.txt" timestamp="1520851905046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
@@ -394,6 +379,13 @@
         <mark key="]" line="37" column="0" />
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/Jenkinsfile" timestamp="1520880526862">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_orders.sh" timestamp="1518106005451">
         <mark key="'" line="40" column="47" />
@@ -420,6 +412,13 @@
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="7" />
         <mark key="^" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/qrcoder/_local/qrcoder.hcl" timestamp="1520881127839">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="49" column="2" />
+        <mark key="." line="42" column="19" />
+        <mark key="^" line="42" column="19" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/strategies/sma50cross/domain/models.py" timestamp="1519464086651">
         <mark key="'" line="0" column="0" />
@@ -476,120 +475,115 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/base/states.puml" timestamp="1519470232146">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" timestamp="1520617366559">
-        <mark key="'" line="45" column="8" />
-        <mark key="[" line="49" column="10" />
-        <mark key="]" line="49" column="7" />
-        <mark key="." line="49" column="7" />
-        <mark key="^" line="49" column="7" />
+      <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" timestamp="1520611524040">
+        <mark key="'" line="24" column="51" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="24" />
+        <mark key="^" line="41" column="24" />
+        <mark key="." line="41" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="13" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="66" column="32" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="157" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="139" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="134" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="109" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="28" column="28" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="163" column="23" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="31" column="20" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="175" column="12" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="74" column="11" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="98" column="16" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="214" column="37" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="81" column="28" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="112" column="20" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="250" column="31" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="119" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="126" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="129" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="132" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="140" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="144" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="149" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="154" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="176" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="180" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="191" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="194" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="208" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="227" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="230" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="234" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="243" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="248" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="256" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="260" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="263" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="268" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="103" column="35" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="269" column="38" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="267" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="258" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="254" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="252" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="240" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="232" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="222" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="218" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="216" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="200" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="198" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="188" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="178" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="162" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="148" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="143" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="106" column="35" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
-      <jump line="22" column="49" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" />
-      <jump line="7" column="10" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" />
-      <jump line="26" column="31" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" />
-      <jump line="9" column="10" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" />
-      <jump line="42" column="8" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" />
-      <jump line="45" column="8" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" />
+      <jump line="801" column="0" filename="$USER_HOME$/work/pipmonger/lab/transaction-events.json.list" />
+      <jump line="133" column="31" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="10" column="43" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="136" column="12" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/pim.py" />
+      <jump line="104" column="8" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/pim.py" />
+      <jump line="21" column="35" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="174" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="178" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="182" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="197" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="217" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="222" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
+      <jump line="31" column="35" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="62" column="15" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="237" column="6" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="625" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helper_sale_order_events.py" />
+      <jump line="564" column="6" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="269" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="1097" column="34" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="1179" column="6" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="1182" column="14" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="2117" column="20" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/helpers.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_dispatches.py" />
+      <jump line="92" column="20" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="46" column="34" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="113" column="65" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="42" column="14" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_intake_and_dispatch.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/calibration.py" />
+      <jump line="53" column="54" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/calibration.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/calibration.py" />
+      <jump line="19" column="3" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" />
+      <jump line="39" column="5" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/data.py" />
+      <jump line="25" column="17" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/sheet.py" />
+      <jump line="172" column="8" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/sheet.py" />
+      <jump line="79" column="78" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/templates/upload.html" />
+      <jump line="27" column="24" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/templates/upload.html" />
+      <jump line="12" column="0" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/templates/upload.html" />
+      <jump line="33" column="10" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/templates/upload.html" />
+      <jump line="23" column="51" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/main.py" />
+      <jump line="27" column="32" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="15" column="13" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="112" column="37" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="114" column="12" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="118" column="55" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="3" column="13" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="37" column="36" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/pipmonger/core/pipmonger/src/aiov20/session.py" />
+      <jump line="69" column="14" filename="$USER_HOME$/work/studies/poker_hands/poker_hands.py" />
+      <jump line="31" column="18" filename="$USER_HOME$/work/studies/poker_hands/poker_hands.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/work/studies/poker_hands/poker_hands.py" />
+      <jump line="35" column="12" filename="$USER_HOME$/work/studies/poker_hands/poker_hands.py" />
+      <jump line="34" column="11" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" />
+      <jump line="43" column="31" filename="$USER_HOME$/work/made.com/qrcoder/Jenkinsfile" />
+      <jump line="71" column="0" filename="$USER_HOME$/work/made.com/qrcoder/Jenkinsfile" />
+      <jump line="55" column="25" filename="$USER_HOME$/work/made.com/qrcoder/playbooks/roles/qrcoder-nomad/templates/qrcoder.nomad.j2" />
+      <jump line="21" column="8" filename="$USER_HOME$/work/made.com/qrcoder/_local/qrcoder.hcl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -599,59 +593,61 @@
         <text encoding="base64">ICAgIHRpbWUgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cancellation</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNwXD4=</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwID0gYXdhaXQgc2Vzcy5hY2NvdW50KCkuZGV0YWlscygpCiAgICAgICAgcHByaW50KHJlc3ApCg==</text>
+        <text encoding="base64">am9iICJxcmNvZGVyIiB7CgogIGRhdGFjZW50ZXJzID0gWyJ0ZXN0Il0KCiAgdHlwZSA9ICJzZXJ2aWNlIgoKICB0YXNrICJxcmNvZGVyIiB7CiAgICAgIGRyaXZlciA9ICJkb2NrZXIiCgogICAgICBjb25maWcgewogICAgICAgIGltYWdlID0gIm1hc3Rlci4wLjYxOWJlY2MiCgogICAgICAgIHBvcnRfbWFwIHsKICAgICAgICAgIGludm9rZSA9IDgwCiAgICAgICAgfQogICAgICAgIGxvZ2dpbmcgewogICAgICAgICAgICB0eXBlID0gInN5c2xvZyIKICAgICAgICAgICAgY29uZmlnIHsKICAgICAgICAgICAgICAgIHN5c2xvZy1hZGRyZXNzID0gInVuaXhncmFtOi8vL3J1bi9zeXN0ZW1kL2pvdXJuYWwvc3lzbG9nIgogICAgICAgICAgICAgICAgdGFnID0gInFyY29kZXIiCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgYXV0aCB7CiAgICAgICAgICB1c2VybmFtZSA9ICJwYWxhbmthaSIKICAgICAgICAgIHBhc3N3b3JkID0gInt7IG5vbWFkX2RvY2tlcl9wYXNzd29yZCB9fSIKICAgICAgICB9CiAgICAgIH0KICAgICAgc2VydmljZSB7CiAgICAgICAgICAgICAgbmFtZSA9ICJxcmNvZGVyLWludm9rZSIKICAgICAgICAgICAgICBwb3J0ID0gImludm9rZSIKICAgICAgICAgICAgICBjaGVjayB7CiAgICAgICAgICAgICAgICBuYW1lICAgICA9ICJhbGl2ZSIKICAgICAgICAgICAgICAgIHBhdGggICAgID0gIi8iCiAgICAgICAgICAgICAgICB0eXBlICAgICA9ICJodHRwIgogICAgICAgICAgICAgICAgaW50ZXJ2YWwgPSAiMzBzIgogICAgICAgICAgICAgICAgdGltZW91dCAgPSAiMnMiCiAgICAgICAgICAgICAgfQogICAgICAgICAgfQoKCiAgICAgIHJlc291cmNlcyB7CiAgICAgICAgY3B1ICAgID0gMTAwCiAgICAgICAgbWVtb3J5ID0gMTI4CiAgICAgICAgbmV0d29yayB7CiAgICAgICAgICBtYml0cyA9IDEKICAgICAgICAgIHBvcnQgImludm9rZSIge30KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0YWdzID0gWyJmYWJpby1pbnRlcm5hbC1xcmNvZGVyLnt7IHJvdXRlNTNfem9uZSB9fS8iXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIGVudiB7CgogICAgICAgIHslIHJhdyAlfQogICAgICAgIENPTlNVTF9IT1NUID0gIiR7Tk9NQURfSVBfaW52b2tlfSIKICAgICAgICB7JSBlbmRyYXcgJX0KICAgICAgICBDT05TVUxfVE9LRU4gPSAie3sgdG9rZW5zW2Vudl0gfX0iCiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWVudEV4dGVuc2lvbnMnOiAK</text>
+        <text encoding="base64">ICAgICAgICBFTlYgPSAie3sgZW52IH19Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YWcgPSBzZWxmLl90YWcKICAgICAgICBjb21tZW50ID0gc2VsZi5fY29tbWVudAogICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICAgIGVudiB7CiAgICAgICAgRU5WID0gInRlc3QiCiAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YVsnY29tbWVudCddID0gc2VsZi5fY29tbWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYWtlX2pzb24oc2VsZiwgKToK</text>
+        <text encoding="base64">ICAgICAgICB7JSByYXcgJX0KICAgICAgICBDT05TVUxfSE9TVCA9ICIke05PTUFEX0lQX2ludm9rZX0iCiAgICAgICAgeyUgZW5kcmF3ICV9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFnCg==</text>
+        <text encoding="base64">ICAgICAgICBDT05TVUxfVE9LRU4gPSAie3sgdG9rZW5zW2Vudl0gfX0iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggImRvY2tlci1jb21wb3NlIHN0b3AiCiAgICAgICAgICAgIHNoICJkb2NrZXItY29tcG9zZSBkb3duIgogICAgICAgICAgICBzaCAiZG9ja2VyLWNvbXBvc2Ugcm0gLXZmIgogICAgICAgICAgICBzaCAicm0gLXJmIHRlc3QtcmVzdWx0cyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhID0geydpZCc6IGlkfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggImRvY2tlci1jb21wb3NlIGRvd24iCiAgICAgICAgICAgIHNoICJkb2NrZXItY29tcG9zZSBybSAtYXZmIgogICAgICAgICAgICBzaCAiZG9ja2VyIG5ldHdvcmsgcHJ1bmUgLWYiCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNwXD4=</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNwXD4=</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>warehouse_code</last-replace>
       <last-substitute>sol.warehouse_id.code</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>xmlrpc</entry>
+        <entry encoding="base64">XDxzZW5kXD4=</entry>
         <entry encoding="base64">XDxycGNjYWxsXD4=</entry>
         <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry>DEBUG</entry>
@@ -670,8 +666,6 @@
         <entry>BatchHelper</entry>
         <entry>SaleOrder</entry>
         <entry>print</entry>
-        <entry encoding="base64">XDxvcmRlclw+</entry>
-        <entry encoding="base64">XDxyZXNwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
@@ -691,8 +685,8 @@
         <entry>146</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>Wa</entry>
         <entry>w</entry>
+        <entry>Wa</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
