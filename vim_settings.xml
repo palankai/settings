@@ -21,11 +21,12 @@
         <mark key="^" line="11" column="51" />
         <mark key="." line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/work/made.com/support/find_unfinished_dispatches.py" timestamp="1521482732846">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="59" column="41" />
+      <file name="$USER_HOME$/work/made.com/support/find_unfinished_dispatches.py" timestamp="1521484173320">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="97" column="25" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/sale.py" timestamp="1518620548928">
         <mark key="[" line="15" column="43" />
@@ -499,8 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="12" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="16" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="20" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
@@ -599,6 +598,8 @@
       <jump line="4" column="10" filename="$USER_HOME$/work/made.com/support/common.py" />
       <jump line="50" column="0" filename="$USER_HOME$/work/made.com/support/common.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8f2c4533-44f2-4f02-8da1-e41f50874b34/console.sql" />
+      <jump line="50" column="17" filename="$USER_HOME$/work/made.com/support/find_unfinished_dispatches.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/work/made.com/support/find_unfinished_dispatches.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -608,43 +609,47 @@
         <text encoding="base64">ICAgIHRpbWUgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dispatches</text>
       </register>
       <register name="/" type="4">
         <text>ERP_DB</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUHVibGlzaGVkOicsIGxlbihQVUJMSVNIRUQpLCAnLycsIGxlbihkaXNwYXRjaGVzKSkK</text>
+      <register name="0" type="4">
+        <text>event['eventNumber']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoZXMgLT0gZGlzcGF0Y2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+      <register name="2" type="4">
+        <text>[{
+        'order': r[0],
+        'line': r[1],
+        'sku': r[2]
+    } for r in list(PROCESSED)]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdSZXF1ZXN0aW5nOicsIHVybCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3InCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxpbmtzLCBkYXRhKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChQUk9DRVNTRUQgJSAxMDApID09IDA6Cg==</text>
+        <text encoding="base64">CndyaXRlX2RhdGEoewogICAgJ21pc3NpbmcnOiBbXQp9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoJ1B1Ymxpc2hlZDonLCBsZW4oUFVCTElTSEVEKSwgJy8nLCBsZW4oZGlzcGF0Y2hlcykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQobGVuKFBVQkxJU0hFRCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGV2ZW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoJ1Byb2Nlc3NlZDonLCBQUk9DRVNTRUQpCg==</text>
+        <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGV2ZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChldmVudCkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
