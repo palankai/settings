@@ -136,7 +136,7 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/testcase.py" timestamp="1522071176696">
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/testcase.py" timestamp="1522085025567">
         <mark key="[" line="292" column="9" />
         <mark key="]" line="293" column="24" />
         <mark key="^" line="293" column="24" />
@@ -290,12 +290,12 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/test_order_placed.py" timestamp="1522071625473">
-        <mark key="'" line="579" column="0" />
-        <mark key="[" line="577" column="8" />
-        <mark key="]" line="577" column="15" />
-        <mark key="^" line="577" column="15" />
-        <mark key="." line="577" column="15" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/test_order_placed.py" timestamp="1522085434155">
+        <mark key="'" line="580" column="0" />
+        <mark key="[" line="573" column="44" />
+        <mark key="]" line="573" column="45" />
+        <mark key="^" line="577" column="8" />
+        <mark key="." line="573" column="45" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" timestamp="1518695787014">
         <mark key="'" line="82" column="0" />
@@ -398,7 +398,7 @@
         <mark key="^" line="40" column="34" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" timestamp="1522061991171" />
-      <file name="/Dummy.txt" timestamp="1521481051306">
+      <file name="/Dummy.txt" timestamp="1522085694674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
@@ -669,7 +669,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChldmVudCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -720,11 +720,11 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>277</entry>
         <entry>977</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL0VSUF9EQi9IQUNJRU5EQS9n</entry>
         <entry>Wa</entry>
         <entry>588</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
