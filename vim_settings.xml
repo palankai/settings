@@ -136,7 +136,12 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/testcase.py" timestamp="1522062231792" />
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/testcase.py" timestamp="1522071176696">
+        <mark key="[" line="292" column="9" />
+        <mark key="]" line="293" column="24" />
+        <mark key="^" line="293" column="24" />
+        <mark key="." line="293" column="24" />
+      </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/main/start.py" timestamp="1519910525967">
         <mark key="[" line="83" column="11" />
         <mark key="]" line="83" column="14" />
@@ -284,6 +289,13 @@
         <mark key="]" line="2" column="20" />
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/test_order_placed.py" timestamp="1522071625473">
+        <mark key="'" line="579" column="0" />
+        <mark key="[" line="577" column="8" />
+        <mark key="]" line="577" column="15" />
+        <mark key="^" line="577" column="15" />
+        <mark key="." line="577" column="15" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" timestamp="1518695787014">
         <mark key="'" line="82" column="0" />
@@ -505,8 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="20" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="25" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="31" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
@@ -605,6 +615,8 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8f2c4533-44f2-4f02-8da1-e41f50874b34/console.sql" />
       <jump line="50" column="17" filename="$USER_HOME$/work/made.com/support/find_unfinished_dispatches.py" />
       <jump line="3" column="0" filename="$USER_HOME$/work/made.com/support/find_unfinished_dispatches.py" />
+      <jump line="578" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/test_order_placed.py" />
+      <jump line="3" column="12" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/test_order_placed.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -620,7 +632,7 @@
         <text>ERP_DB</text>
       </register>
       <register name="0" type="4">
-        <text>event['eventNumber']</text>
+        <text>WhenRelayPointIsSet</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -657,7 +669,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChldmVudCkK</text>
       </register>
       <register name=":" type="4">
-        <text>588</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -711,8 +723,8 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL0VSUF9EQi9IQUNJRU5EQS9n</entry>
         <entry>Wa</entry>
-        <entry>wa</entry>
         <entry>588</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
