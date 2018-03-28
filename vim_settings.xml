@@ -176,6 +176,11 @@
         <mark key="^" line="23" column="67" />
         <mark key="." line="23" column="67" />
       </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_security_rules/tests/test_security_rules.py" timestamp="1522240269923">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/skus.txt" timestamp="1519227137996">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
@@ -633,41 +638,41 @@
         <text>WhenRelayPointIsSet</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCAxID09IDIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtYW5hZ2VyX2lkKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh3aF9tYW5hZ2VyX2dyb3VwX2lkKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCAxID09IDIK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>[{
         'order': r[0],
         'line': r[1],
         'sku': r[2]
     } for r in list(PROCESSED)]</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3InCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CndyaXRlX2RhdGEoewogICAgJ21pc3NpbmcnOiBbXQp9KQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGV2ZW50KQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJyZWFrCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>74</text>
       </register>
     </registers>
     <search>
@@ -703,8 +708,6 @@
         <entry>ERP_DB</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53YQ==</entry>
-        <entry>a</entry>
         <entry>Wqa</entry>
         <entry>wqa</entry>
         <entry>31</entry>
@@ -723,6 +726,8 @@
         <entry>588</entry>
         <entry>w</entry>
         <entry>wa</entry>
+        <entry>187</entry>
+        <entry>74</entry>
       </history-cmd>
       <history-expr />
       <history-input />
