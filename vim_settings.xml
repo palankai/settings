@@ -18,11 +18,9 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1519744125153">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8f2c4533-44f2-4f02-8da1-e41f50874b34/console.sql" timestamp="1521481170421">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="53" />
-        <mark key="^" line="11" column="51" />
-        <mark key="." line="11" column="51" />
       </file>
       <file name="$USER_HOME$/work/made.com/support/find_unfinished_dispatches.py" timestamp="1521484173320">
         <mark key="'" line="3" column="0" />
@@ -57,6 +55,12 @@
         <mark key="]" line="11" column="9" />
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/tests/test_feedback_email_sending.py" timestamp="1522325379318">
+        <mark key="[" line="224" column="49" />
+        <mark key="]" line="224" column="49" />
+        <mark key="." line="224" column="49" />
+        <mark key="^" line="224" column="49" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core.env" timestamp="1518797570173">
         <mark key="[" line="0" column="20" />
@@ -170,6 +174,13 @@
         <mark key="^" line="598" column="59" />
         <mark key="." line="598" column="59" />
       </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/docs/releases/v1.67.rst" timestamp="1522325807017">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/work/made.com/hacienda/src/hacienda/migrations/versions/4b90d69045de_dispatched_externally.py" timestamp="1518607049679">
         <mark key="[" line="23" column="63" />
         <mark key="]" line="23" column="67" />
@@ -223,6 +234,13 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/docs/releases/v1.68.rst" timestamp="1522325835681">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/work/pipmonger/core/.developer.env" timestamp="1520606331078">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="14" />
@@ -264,10 +282,6 @@
         <mark key="^" line="62" column="61" />
       </file>
       <file name="vim_settings.xml" timestamp="1520024078220">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8f2c4533-44f2-4f02-8da1-e41f50874b34/console.sql" timestamp="1521481170421">
-        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/core/pipmonger/src/pipmonger/trading/domain/models.py" timestamp="1519560966389">
@@ -473,6 +487,12 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1519744125153">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="53" />
+        <mark key="^" line="11" column="51" />
+        <mark key="." line="11" column="51" />
+      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517940948941">
         <mark key="'" line="160" column="29" />
         <mark key="[" line="158" column="0" />
@@ -520,8 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="31" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="34" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="37" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
@@ -620,6 +638,8 @@
       <jump line="3" column="0" filename="$USER_HOME$/work/made.com/support/find_unfinished_dispatches.py" />
       <jump line="578" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/test_order_placed.py" />
       <jump line="3" column="12" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/test_order_placed.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/docs/releases/v1.67.rst" />
+      <jump line="35" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/docs/releases/v1.68.rst" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -638,41 +658,41 @@
         <text>WhenRelayPointIsSet</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtYW5hZ2VyX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInswfSwgXG4iCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh3aF9tYW5hZ2VyX2dyb3VwX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtYW5hZ2VyX2lkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCAxID09IDIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh3aF9tYW5hZ2VyX2dyb3VwX2lkKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCAxID09IDIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>[{
         'order': r[0],
         'line': r[1],
         'sku': r[2]
     } for r in list(PROCESSED)]</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb3InCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CndyaXRlX2RhdGEoewogICAgJ21pc3NpbmcnOiBbXQp9KQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>74</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -724,10 +744,10 @@
         <entry encoding="base64">JzwsJz5zL0VSUF9EQi9IQUNJRU5EQS9n</entry>
         <entry>Wa</entry>
         <entry>588</entry>
-        <entry>w</entry>
-        <entry>wa</entry>
         <entry>187</entry>
         <entry>74</entry>
+        <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
