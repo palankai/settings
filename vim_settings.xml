@@ -415,7 +415,7 @@
         <mark key="^" line="40" column="34" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" timestamp="1522061991171" />
-      <file name="/Dummy.txt" timestamp="1522085694674">
+      <file name="/Dummy.txt" timestamp="1524230860355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
@@ -436,6 +436,12 @@
         <mark key="]" line="5" column="34" />
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/work/studies/gil_kata/test_game.py" timestamp="1524231845101">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="10" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_orders.sh" timestamp="1518106005451">
         <mark key="'" line="40" column="47" />
@@ -492,6 +498,12 @@
         <mark key="]" line="11" column="53" />
         <mark key="^" line="11" column="51" />
         <mark key="." line="11" column="51" />
+      </file>
+      <file name="$USER_HOME$/work/studies/gil_kata/game.py" timestamp="1524231753730">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="56" column="4" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517940948941">
         <mark key="'" line="160" column="29" />
@@ -654,13 +666,13 @@
         <text encoding="base64">ICAgIHRpbWUgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>dispatches</text>
+        <text>Values</text>
       </register>
       <register name="/" type="4">
         <text>ERP_DB</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dG9yID0gcmVxdWVzdC5hcHBbJ2V4ZWN1dG9yJ10KICAgIGNvbnRlbnQgPSBhd2FpdCByZXF1ZXN0LmFwcC5sb29wLnJ1bl9pbl9leGVjdXRvcigKICAgICAgICBleGVjdXRvciwgY2FsaWJyYXRpb24ubWFrZV9jYWxpYnJhdGlvbgogICAgKQo=</text>
+        <text encoding="base64">CgpkZWYgdGVzdF92YWx1ZXNfYXJlX2NvbXBhcmFibGUoKToKICAgIGFzc2VydCBWYWx1ZXMuVGVuIDwgVmFsdWVzLkphY2sKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -669,28 +681,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAjIHRyeToKICAgICMgICAgIGxhYmVscyA9IGRhdGEubG9hZF9sYWJlbHMocm93cykKICAgICMgICAgIGNvbnRlbnQgPSBzaGVldC5tYWtlX2xhYmVscyhsYWJlbHMsIHNob3dyb29tLCBib3JkZXJzKQogICAgIyBleGNlcHQgRXhjZXB0aW9uIGFzIGV4OgogICAgIyAgICAgcmV0dXJuIHdlYi5SZXNwb25zZSgKICAgICMgICAgICAgICB0ZXh0PSdFcnJvcjoge30nLmZvcm1hdChzdHIoZXgpKSwKICAgICMgICAgICAgICBzdGF0dXM9NDAwCiAgICAjICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXg6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gd2ViLlJlc3BvbnNlKAogICAgICAgICAgICB0ZXh0PSdFcnJvcjoge30nLmZvcm1hdChzdHIoZXgpKSwKICAgICAgICAgICAgc3RhdHVzPTQwMAogICAgICAgICkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VpdF9tYXBwaW5nW3R4dF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxhYmVscyA9IGRhdGEubG9hZF9sYWJlbHMocm93cykKICAgIGNvbnRlbnQgPSBzaGVldC5tYWtlX2xhYmVscyhsYWJlbHMsIHNob3dyb29tLCBib3JkZXJzKQo=</text>
+        <text encoding="base64">c3VpdF9tYXBwaW5nID0gewogICAgJ0gnOiBTdWl0cy5IZWFydHMsCiAgICAnRCc6IFN1aXRzLkRpYW1vbmRzLAogICAgJ1MnOiBTdWl0cy5TcGFkZXMsCiAgICAnQyc6IFN1aXRzLkNsdWJzCn0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsdWVfbWFwcGluZyA9IHsKICAgICcyJzogVmFsdWVzLlR3bywKICAgICczJzogVmFsdWVzLlRocmVlLAogICAgJzQnOiBWYWx1ZXMuRm91ciwKICAgICc1JzogVmFsdWVzLkZpdmUsCiAgICAnNic6IFZhbHVlcy5TaXgsCiAgICAnNyc6IFZhbHVlcy5TZXZlbiwKICAgICc4JzogVmFsdWVzLkVpZ2h0LAogICAgJzknOiBWYWx1ZXMuTmluZSwKICAgICdUJzogVmFsdWVzLlRlbiwKICAgICdKJzogVmFsdWVzLkphY2ssCiAgICAnUSc6IFZhbHVlcy5RdWVlbiwKICAgICdLJzogVmFsdWVzLktpbmcsCiAgICAnQSc6IFZhbHVlcy5BY2UsCn0K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
