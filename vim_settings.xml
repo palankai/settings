@@ -437,11 +437,12 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/work/studies/gil_kata/test_game.py" timestamp="1524233271836">
+      <file name="$USER_HOME$/work/studies/gil_kata/test_game.py" timestamp="1524234115591">
         <mark key="'" line="1" column="12" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="48" column="16" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="61" column="25" />
+        <mark key="." line="78" column="29" />
+        <mark key="^" line="78" column="29" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/extract_orders.sh" timestamp="1518106005451">
         <mark key="'" line="40" column="47" />
@@ -499,12 +500,12 @@
         <mark key="^" line="11" column="51" />
         <mark key="." line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/work/studies/gil_kata/game.py" timestamp="1524233018806">
-        <mark key="'" line="17" column="28" />
-        <mark key="[" line="80" column="10" />
-        <mark key="]" line="80" column="10" />
-        <mark key="." line="80" column="10" />
-        <mark key="^" line="80" column="10" />
+      <file name="$USER_HOME$/work/studies/gil_kata/game.py" timestamp="1524234529073">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="104" column="71" />
+        <mark key="]" line="105" column="7" />
+        <mark key="." line="105" column="7" />
+        <mark key="^" line="105" column="7" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/warehouse_messages/tests/test_order_item_allocated.py" timestamp="1517940948941">
         <mark key="'" line="160" column="29" />
@@ -558,8 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="106" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="114" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="119" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
@@ -649,7 +648,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
       <jump line="68" column="25" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
       <jump line="69" column="28" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
       <jump line="13" column="26" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
       <jump line="14" column="0" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
       <jump line="66" column="4" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
@@ -657,7 +655,10 @@
       <jump line="72" column="22" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
       <jump line="35" column="3" filename="$USER_HOME$/work/studies/gil_kata/test_game.py" />
       <jump line="1" column="12" filename="$USER_HOME$/work/studies/gil_kata/test_game.py" />
-      <jump line="17" column="28" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
+      <jump line="87" column="31" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
+      <jump line="17" column="39" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
+      <jump line="4" column="10" filename="$USER_HOME$/work/studies/gil_kata/game.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -667,43 +668,43 @@
         <text encoding="base64">ICAgIHRpbWUgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>ERP_DB</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJhbmRvbS5zZWVkKDEzKQogICAgZGVjayA9IG1ha2VfZGVjaygpCiAgICBsZWZ0LCByaWdodCA9IG1ha2VfdHdvX2hhbmRzKGRlY2spCg==</text>
+        <text encoding="base64">ICAgIGdhbWUgPSBHYW1lKGxlZnQsIHJpZ2h0LCBwcmludF9yb3VuZCkKICAgIGdhbWUubGF5c19jYXJkX2Rvd24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRlY2tbMF0pCg==</text>
+        <text encoding="base64">ICAgIAogICAgZGVmIGlzX2dyZWF0ZXIoc2VsZik6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJhbmRvbS5zZWVkKDEzKQo=</text>
+        <text encoding="base64">CmNsYXNzIFJlc3VsdDoKICAgIHBhc3MKCmNsYXNzIEZpbmFsUmVzdWx0KFJlc3VsdCk6CiAgICBwYXNzCgpjbGFzcyBSb3VuZFJlc3VsdChSZXN1bHQpOgogICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJIZWxsbyB3b3JsZCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBkZWNrID09IGxpc3Qoc2V0KGRlY2spKQo=</text>
+        <text encoding="base64">ICAgIHJhbmRvbS5zZWVkKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhbmRvbS5zZWVkKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIFZhbHVlcy5mcm9tX3N0cmluZyh0eHRbMF0pLAogICAgICAgICAgICBTdWl0cy5mcm9tX3N0cmluZyh0eHRbMV0pCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCByZXN1bHRzID09IFsKICAgICAgICAoCiAgICAgICAgICAgIENhcmQoVmFsdWVzLk5pbmUsIFN1aXRzLkhlYXJ0cyksCiAgICAgICAgICAgIENhcmQoVmFsdWVzLkVpZ2h0LCBTdWl0cy5DbHVicyksCiAgICAgICAgICAgICdsZWZ0JwogICAgICAgICkKICAgIF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJpZ2h0ID0gQ2FyZCgnM0QnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
