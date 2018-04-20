@@ -267,12 +267,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" timestamp="1523630009683">
-        <mark key="'" line="36" column="11" />
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="43" />
-        <mark key="^" line="26" column="43" />
-        <mark key="." line="26" column="43" />
+      <file name="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" timestamp="1524217866969">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/work/pipmonger/lab/src/oanda_event_check.py" timestamp="1520032687788">
         <mark key="'" line="23" column="14" />
@@ -545,8 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="37" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="41" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
       <jump line="47" column="0" filename="$USER_HOME$/work/made.com/backoffice-automation/tests/test_purchase_order_events.py" />
@@ -645,6 +643,8 @@
       <jump line="3" column="12" filename="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/test_order_placed.py" />
       <jump line="35" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/docs/releases/v1.67.rst" />
       <jump line="35" column="0" filename="$USER_HOME$/work/made.com/erp/erp_core/docs/releases/v1.68.rst" />
+      <jump line="60" column="5" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/made.com/qrcoder/qrcoder/src/qrcoder/app.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -659,41 +659,41 @@
       <register name="/" type="4">
         <text>ERP_DB</text>
       </register>
-      <register name="0" type="4">
-        <text>WhenRelayPointIsSet</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGV4ZWN1dG9yID0gcmVxdWVzdC5hcHBbJ2V4ZWN1dG9yJ10KICAgIGNvbnRlbnQgPSBhd2FpdCByZXF1ZXN0LmFwcC5sb29wLnJ1bl9pbl9leGVjdXRvcigKICAgICAgICBleGVjdXRvciwgY2FsaWJyYXRpb24ubWFrZV9jYWxpYnJhdGlvbgogICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnT3JkZXIgcmVmOicsIG9yZGVyX3JlZikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnLicpCg==</text>
+        <text encoding="base64">CiAgICAjIHRyeToKICAgICMgICAgIGxhYmVscyA9IGRhdGEubG9hZF9sYWJlbHMocm93cykKICAgICMgICAgIGNvbnRlbnQgPSBzaGVldC5tYWtlX2xhYmVscyhsYWJlbHMsIHNob3dyb29tLCBib3JkZXJzKQogICAgIyBleGNlcHQgRXhjZXB0aW9uIGFzIGV4OgogICAgIyAgICAgcmV0dXJuIHdlYi5SZXNwb25zZSgKICAgICMgICAgICAgICB0ZXh0PSdFcnJvcjoge30nLmZvcm1hdChzdHIoZXgpKSwKICAgICMgICAgICAgICBzdGF0dXM9NDAwCiAgICAjICAgICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQmF0Y2gxOicsIGJhdGNoMSkKICAgICAgICBwcmludCgnQmF0Y2gyOicsIGJhdGNoMikK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXg6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnU2hpcG1lbnQ6Jywgc2hpcG1lbnRfaWQpCg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnU086ICcsIG9yZGVyX2V2ZW50WydvcmRlcl9pZCddKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd2ViLlJlc3BvbnNlKAogICAgICAgICAgICB0ZXh0PSdFcnJvcjoge30nLmZvcm1hdChzdHIoZXgpKSwKICAgICAgICAgICAgc3RhdHVzPTQwMAogICAgICAgICkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUE86ICcsIHBvX3JlZikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnSXRlbSBpZCcsIGl0ZW1faWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnRE8gVEhFIE1BTlVBTCBJTlRBS0U6JywgcG9fcmVmKQo=</text>
+        <text encoding="base64">ICAgIGxhYmVscyA9IGRhdGEubG9hZF9sYWJlbHMocm93cykKICAgIGNvbnRlbnQgPSBzaGVldC5tYWtlX2xhYmVscyhsYWJlbHMsIHNob3dyb29tLCBib3JkZXJzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInswfSwgXG4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -747,8 +747,8 @@
         <entry>588</entry>
         <entry>187</entry>
         <entry>74</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
