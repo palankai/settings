@@ -321,11 +321,6 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/sale_order_events/tests/test_order_placed.py" timestamp="1522161489971">
-        <mark key="[" line="582" column="0" />
-        <mark key="]" line="582" column="0" />
-        <mark key="." line="582" column="0" />
-      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/store_order_item_allocated_events_data.py" timestamp="1518695787014">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="24" column="21" />
