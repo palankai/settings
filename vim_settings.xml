@@ -47,7 +47,7 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1520608630425">
+      <file name="/a.dummy" timestamp="1525788403611">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/support/config.yml" timestamp="1521479452185">
@@ -292,6 +292,12 @@
         <mark key="]" line="62" column="61" />
         <mark key="." line="62" column="61" />
         <mark key="^" line="62" column="61" />
+      </file>
+      <file name="$USER_HOME$/work/made.com/hacienda/scripts/xyz/tests.py" timestamp="1525788346675">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="vim_settings.xml" timestamp="1520024078220">
         <mark key="[" line="0" column="0" />
