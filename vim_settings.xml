@@ -187,6 +187,10 @@
         <mark key="^" line="23" column="67" />
         <mark key="." line="23" column="67" />
       </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_batches/product_view.xml" timestamp="1525863377004">
+        <mark key="[" line="217" column="121" />
+        <mark key="]" line="217" column="172" />
+      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/made_security_rules/tests/test_security_rules.py" timestamp="1522240269923">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
@@ -686,8 +690,8 @@
       <register name="/" type="4">
         <text>ERP_DB</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LSBuYW1lOiBHYXRoZXIgZmFjdHMKICB0YWdzOgogICAgLSBhbHdheXMKICBob3N0czogbG9jYWwKICBjb25uZWN0aW9uOiBsb2NhbAogIHZhcnNfZmlsZXM6CiAgICAtICJ7eyBjb21tb25fbGlicmFyeV9wYXRoIH19L2dyb3VwX3ZhcnMvYWxsIgogICAgLSAiZ3JvdXBfdmFycy9lcnAiCiAgICAtICJncm91cF92YXJzL2VycF93ZWJfZWMyX2luc3RhbmNlcyIKICAgIC0gImdyb3VwX3ZhcnMvYWxsIgogIHRhc2tzOgo=</text>
+      <register name="0" type="4">
+        <text>made_batches.product_shop_attributes_stock_tree_view</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LSBuYW1lOiBHYXRoZXIgZmFjdHMKICB0YWdzOgogICAgLSBhbHdheXMKICBob3N0czogbG9jYWwKICBjb25uZWN0aW9uOiBsb2NhbAogIHZhcnNfZmlsZXM6CiAgICAtICJ7eyBjb21tb25fbGlicmFyeV9wYXRoIH19L2dyb3VwX3ZhcnMvYWxsIgogICAgLSAiZ3JvdXBfdmFycy9lcnAiCiAgICAtICJncm91cF92YXJzL2VycF93ZWJfZWMyX2luc3RhbmNlcyIKICAgIC0gImdyb3VwX3ZhcnMvYWxsIgogIHRhc2tzOgo=</text>
