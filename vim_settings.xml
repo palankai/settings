@@ -140,8 +140,8 @@
         <mark key="'" line="1" column="0" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
         <mark key="^" line="33" column="25" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp-ansible/playbooks/group_vars/erp_web_ec2_instances" timestamp="1525190280463">
         <mark key="[" line="35" column="22" />
@@ -154,9 +154,6 @@
         <mark key="]" line="4" column="60" />
         <mark key="^" line="4" column="60" />
         <mark key="." line="4" column="60" />
-      </file>
-      <file name="/Python Console" timestamp="1521481010215">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1520028582141">
         <mark key="[" line="0" column="0" />
@@ -216,6 +213,7 @@
         <mark key="." line="87" column="8" />
         <mark key="^" line="87" column="8" />
       </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" timestamp="1528014954259" />
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="25" />
@@ -383,6 +381,12 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/work/studies/machine-learning/iristutorial/compare_libs.py" timestamp="1528015698656">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="18" column="42" />
+        <mark key="^" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+      </file>
       <file name="$USER_HOME$/work/made.com/erp/erp_core/apps_made/eventstore/eventstore_message.py" timestamp="1517939748508">
         <mark key="[" line="32" column="11" />
         <mark key="]" line="17" column="0" />
@@ -394,6 +398,10 @@
         <mark key="]" line="15" column="41" />
         <mark key="^" line="15" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/pipmonger/core/developer.env" timestamp="1520607069918">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/work/made.com/erp-ansible/playbooks/erp-playbook.yml" timestamp="1525190207336">
         <mark key="[" line="25" column="26" />
@@ -488,7 +496,7 @@
         <mark key="." line="40" column="34" />
         <mark key="^" line="40" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524230860355">
+      <file name="/Dummy.txt" timestamp="1528015871335">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/made.com/qrcoder/qrlablr/data.py" timestamp="1520359957634">
@@ -713,8 +721,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxNQU5VQUxMWV9ESVNQQVRDSEVEX1NBTEVfT1JERVJfVFlQRVNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">RlJPTSBhbHBpbmU6My42CgpSVU4gYXBrIC0tdXBkYXRlIHVwZ3JhZGUgJiYgYXBrIGFkZCBcCiAgICBidWlsZC1iYXNlIFwKICAgIGdjYyBcCiAgICBnaXQgXAogICAgcG9zdGdyZXNxbC1kZXYgXAogICAgcHl0aG9uMyBcCiAgICBsaWJmZmktZGV2IFwKICAgIHB5dGhvbjMtZGV2IFwKICAgIG11c2wtZGV2IFwKICAgIHB5LWNyeXB0b2dyYXBoeQoKQUREIHJlcXVpcmVtZW50cy50eHQgL3RtcC9yZXF1aXJlbWVudHMudHh0ClJVTiBwaXAzIGluc3RhbGwgLVUgcGlwICYmIFwKICAgIHBpcDMgaW5zdGFsbCAtciAvdG1wL3JlcXVpcmVtZW50cy50eHQK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGF0YXNldCA9IHBhbmRhcy5yZWFkX2Nzdih1cmwsIG5hbWVzPW5hbWVzKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBpcDMgaW5zdGFsbCB3aGVlbCAmJiBcCg==</text>
@@ -761,6 +769,9 @@
     </search>
     <history>
       <history-search>
+        <entry>xmlrpc</entry>
+        <entry encoding="base64">XDxzZW5kXD4=</entry>
+        <entry encoding="base64">XDxycGNjYWxsXD4=</entry>
         <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry>DEBUG</entry>
         <entry>Reader</entry>
@@ -778,11 +789,14 @@
         <entry>BatchHelper</entry>
         <entry>SaleOrder</entry>
         <entry>print</entry>
-        <entry>ERP_DB</entry>
-        <entry encoding="base64">XDxfbm90aWZ5X2NvaV9hbGxvY2F0ZWRfdG9fYmF0Y2hcPg==</entry>
-        <entry encoding="base64">XDxNQU5VQUxMWV9ESVNQQVRDSEVEX1NBTEVfT1JERVJfVFlQRVNcPg==</entry>
       </history-search>
       <history-cmd>
+        <entry>registers</entry>
+        <entry>93</entry>
+        <entry>52</entry>
+        <entry>700</entry>
+        <entry encoding="base64">JzwsJz53YQ==</entry>
+        <entry>a</entry>
         <entry>Wqa</entry>
         <entry>wqa</entry>
         <entry>31</entry>
@@ -794,13 +808,7 @@
         <entry>146</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>277</entry>
-        <entry>977</entry>
-        <entry encoding="base64">JzwsJz5zL0VSUF9EQi9IQUNJRU5EQS9n</entry>
         <entry>Wa</entry>
-        <entry>588</entry>
-        <entry>187</entry>
-        <entry>74</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
