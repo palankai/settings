@@ -53,6 +53,12 @@
         <mark key="." line="78" column="3" />
         <mark key="^" line="78" column="3" />
       </file>
+      <file name="$USER_HOME$/work/made.com/support/validate_madecom.py" timestamp="1528317210432">
+        <mark key="[" line="53" column="20" />
+        <mark key="]" line="53" column="19" />
+        <mark key="." line="53" column="19" />
+        <mark key="^" line="53" column="19" />
+      </file>
       <file name="$USER_HOME$/work/made.com/hacienda/src/Dockerfile" timestamp="1527612088649">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="14" column="68" />
@@ -216,6 +222,7 @@
         <mark key="." line="87" column="8" />
         <mark key="^" line="87" column="8" />
       </file>
+      <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/migrate_orders.py" timestamp="1528313156968" />
       <file name="$USER_HOME$/work/made.com/erp/erp_core/src/scripts/iforce/store_order_item_allocated_events_data.py" timestamp="1518695865462">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="25" />
@@ -708,43 +715,43 @@
         <text encoding="base64">ICAgIHRpbWUgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNQU5VQUxMWV9ESVNQQVRDSEVEX1NBTEVfT1JERVJfVFlQRVNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">RlJPTSBhbHBpbmU6My42CgpSVU4gYXBrIC0tdXBkYXRlIHVwZ3JhZGUgJiYgYXBrIGFkZCBcCiAgICBidWlsZC1iYXNlIFwKICAgIGdjYyBcCiAgICBnaXQgXAogICAgcG9zdGdyZXNxbC1kZXYgXAogICAgcHl0aG9uMyBcCiAgICBsaWJmZmktZGV2IFwKICAgIHB5dGhvbjMtZGV2IFwKICAgIG11c2wtZGV2IFwKICAgIHB5LWNyeXB0b2dyYXBoeQoKQUREIHJlcXVpcmVtZW50cy50eHQgL3RtcC9yZXF1aXJlbWVudHMudHh0ClJVTiBwaXAzIGluc3RhbGwgLVUgcGlwICYmIFwKICAgIHBpcDMgaW5zdGFsbCAtciAvdG1wL3JlcXVpcmVtZW50cy50eHQK</text>
+        <text>'class=&quot;temp-link&quot;' not in src</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBpcDMgaW5zdGFsbCB3aGVlbCAmJiBcCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgQXNzZXJ0aW9uRXJyb3IgYXMgZToKICAgICAgICAgICAgcHJpbnQoIiAgRVJST1IiLCBlLmFyZ3MpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIGFwayB1cGRhdGUgJiYK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGVmdCg5MCkK</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVmdCg5MCkK</text>
+        <text encoding="base64">ICAgIG1vZHVsZV9saW5rID0gcmUuZmluZGFsbCgnY2xhc3M9Im1vZHVsZS1saW5rIicsIHNyYykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGVmdCg5MCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yd2FyZCgyMDApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxlZnQoMTcwKQogICAgaWYgYWJzKHBvcygpKSA8IDE6CiAgICAgICAgYnJlYWsKZW5kX2ZpbGwoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29sb3IoJ3JlZCcsICd5ZWxsb3cnKQpiZWdpbl9maWxsKCkKd2hpbGUgVHJ1ZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZSkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -797,11 +804,11 @@
         <entry>277</entry>
         <entry>977</entry>
         <entry encoding="base64">JzwsJz5zL0VSUF9EQi9IQUNJRU5EQS9n</entry>
-        <entry>Wa</entry>
         <entry>588</entry>
         <entry>187</entry>
         <entry>74</entry>
         <entry>w</entry>
+        <entry>Wa</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
